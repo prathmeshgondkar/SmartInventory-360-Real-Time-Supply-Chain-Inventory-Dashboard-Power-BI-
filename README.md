@@ -142,3 +142,5 @@ SmartInventory360/
 │   └── SmartInventory360.pbix
 └── README.md
 ```
+
+📘 Note: All data used in this project is synthetic and created purely for visual and educational purposes. It has no connection to real-world entities or organizations.

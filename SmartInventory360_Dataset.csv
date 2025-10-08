@@ -1,0 +1,1201 @@
+Date,Region,Category,Supplier,Warehouse,Order Status,Units Sold,Inventory Level,Transportation Cost,Order Accuracy,Lead Time (Days),Backorder,Cost of Goods Sold (COGS),Average Inventory,Warehouse Capacity
+01-01-23,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,314,2036,1188.61,TRUE,9,FALSE,43078.41,2410.1,6017
+01-01-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,753,1927,11896.17,TRUE,11,FALSE,68710.15,1181.3,11241
+02-01-23,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,801,370,9481.39,TRUE,17,FALSE,25371.99,1164.2,7658
+03-01-23,Montreal West,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Canceled,580,2105,5468.22,TRUE,3,FALSE,49036.17,4107.1,10166
+04-01-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1028,5164,14490.56,TRUE,21,FALSE,58432.13,3692.2,7230
+05-01-23,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Canceled,351,1460,8029.18,FALSE,15,FALSE,57968.29,1033,10583
+06-01-23,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Pending,636,1002,16333.48,TRUE,7,FALSE,173212.08,1166.3,6036
+06-01-23,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Canceled,1072,834,1948.41,TRUE,25,FALSE,33790.58,2621.9,9509
+07-01-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,626,3033,5407.89,TRUE,8,FALSE,83838.93,3312.9,8299
+08-01-23,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,580,3002,11730.78,TRUE,21,FALSE,54976.91,4489.9,10081
+09-01-23,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,119,3991,7525.38,TRUE,21,FALSE,3161.87,4263.4,8765
+10-01-23,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,951,2704,11358.16,TRUE,4,FALSE,157445.56,2192,9760
+11-01-23,Montreal North,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,351,1723,6359.4,TRUE,27,FALSE,75929.07,1228.1,9743
+11-01-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,456,479,8156.27,TRUE,9,FALSE,66667.18,710.8,6711
+12-01-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,532,713,11081.37,TRUE,8,FALSE,65048.3,1324.5,9743
+13-01-23,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Pending,660,1373,1581.85,TRUE,16,TRUE,25233.51,1731.5,5145
+14-01-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,868,2305,3304.97,TRUE,10,FALSE,26086.31,3682.6,9092
+15-01-23,Montreal East,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,1015,3764,7302.7,TRUE,26,TRUE,133041.45,3339.6,7893
+16-01-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,970,1026,11482.92,TRUE,7,FALSE,143007.44,815.8,7622
+16-01-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Canceled,586,216,7080.59,TRUE,6,FALSE,46036.69,2358.4,9424
+17-01-23,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,819,4332,7091.99,TRUE,5,FALSE,53341.17,3962.5,10761
+18-01-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,304,3340,6173.13,TRUE,21,FALSE,50520.52,3036.8,7565
+19-01-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,631,2463,4015.1,TRUE,23,FALSE,94420.26,3513,11087
+20-01-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,480,5238,7252.58,TRUE,12,FALSE,31091.27,3499.4,7342
+21-01-23,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,666,2759,15881.68,FALSE,19,FALSE,33365.93,4514.2,10032
+21-01-23,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,345,4972,3617.94,TRUE,13,FALSE,87067.67,5656.3,7450
+22-01-23,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,70,3668,9935.72,TRUE,5,FALSE,9009.41,3419.4,6115
+23-01-23,Montreal West,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,836,2267,4799.62,TRUE,15,FALSE,38001.42,1480.9,5178
+24-01-23,Montreal West,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,512,355,9473.56,TRUE,20,FALSE,55303.82,1917.6,9760
+25-01-23,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,293,3587,1828.41,TRUE,3,FALSE,41991.39,4018.1,10411
+26-01-23,Montreal North,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,83,3197,11360.31,TRUE,18,FALSE,12985.72,3530.7,9361
+26-01-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,212,4388,9416.53,TRUE,21,FALSE,22412.59,3472,5590
+27-01-23,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,722,1619,3539.37,TRUE,25,FALSE,109947.94,3954.4,8298
+28-01-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Canceled,404,4492,11624.18,TRUE,29,FALSE,75733.39,3067.1,5774
+29-01-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,787,745,8076.13,TRUE,16,FALSE,182861.19,2606.4,7955
+30-01-23,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,137,3819,4070.8,TRUE,12,FALSE,9071.6,3541.5,9763
+31-01-23,Montreal South,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,148,2022,10181.46,FALSE,5,FALSE,20959.93,1546.7,6223
+31-01-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,511,706,7528.96,TRUE,7,FALSE,40657.65,2238.8,10062
+01-02-23,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,668,3860,1731.86,TRUE,10,FALSE,85794.98,3675.4,6787
+02-02-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,728,4520,17277.3,TRUE,7,FALSE,87894.67,3642.9,11290
+03-02-23,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,233,2515,17811.16,TRUE,24,FALSE,46647.08,3367.3,6060
+04-02-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,340,3615,10017.52,TRUE,11,FALSE,65836.91,4441.1,6602
+05-02-23,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,809,4375,12233.8,TRUE,18,FALSE,57686.06,3500.6,6204
+05-02-23,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,120,1376,6831.71,TRUE,19,FALSE,7867.13,2632.9,7500
+06-02-23,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,847,3175,12606.68,TRUE,21,TRUE,123964.22,3687.4,7135
+07-02-23,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,344,2873,6026.57,TRUE,17,FALSE,26014.68,1593.9,9914
+08-02-23,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,1006,561,1861.36,TRUE,29,FALSE,129763.94,1947.7,6303
+09-02-23,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,184,3060,4184.48,FALSE,24,FALSE,31654.44,3882.5,9654
+10-02-23,Montreal West,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,187,5238,17206.2,TRUE,22,FALSE,23147.73,4538.1,9637
+10-02-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Pending,477,5049,13747.13,TRUE,28,TRUE,38805.75,4249,6878
+11-02-23,Montreal East,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,681,4343,13432.44,TRUE,21,FALSE,87661.97,2591.4,6343
+12-02-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,366,877,12880.27,TRUE,17,TRUE,44810.03,620.7,7087
+13-02-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,397,252,10411.33,FALSE,29,FALSE,53951.03,1384,6118
+14-02-23,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,659,2161,6124.33,TRUE,6,FALSE,27075.12,4007.8,6066
+15-02-23,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,499,4292,4250.21,TRUE,27,FALSE,110895.07,4049.5,8644
+16-02-23,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,496,2291,7938.96,TRUE,27,FALSE,57616.97,1841.6,10952
+16-02-23,Montreal North,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,991,1656,9267.52,TRUE,29,FALSE,173225.2,1292.3,7529
+17-02-23,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Canceled,574,485,12774.79,TRUE,22,FALSE,40444.28,1365.2,5733
+18-02-23,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,1111,2232,8444.34,TRUE,10,FALSE,168583.04,2738,7450
+19-02-23,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,1052,2421,11191.53,TRUE,16,FALSE,142568.92,3244.7,5323
+20-02-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,382,4228,1541.26,TRUE,22,FALSE,89775.34,3859.5,8813
+21-02-23,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,306,1576,11581.16,TRUE,15,FALSE,63236.4,2444,10320
+21-02-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,758,2785,1618.01,TRUE,19,FALSE,151574.07,3876.9,10594
+22-02-23,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,124,4976,3058.69,TRUE,12,FALSE,15153.75,2560.3,11698
+23-02-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,539,1211,12491.35,TRUE,3,FALSE,90865.82,842.9,6625
+24-02-23,Montreal South,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,910,213,13611.66,TRUE,9,FALSE,101608.47,2882.3,9333
+25-02-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Pending,569,4300,13464.17,TRUE,1,FALSE,26745.88,4096.9,8648
+26-02-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Pending,246,3699,5204.91,FALSE,7,TRUE,19361.41,3459.2,9750
+26-02-23,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Canceled,202,2511,7322.34,TRUE,1,FALSE,28874.45,1682.1,10333
+27-02-23,Montreal West,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,166,528,8941.16,TRUE,21,FALSE,18642.3,2322.3,10641
+28-02-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,806,4085,4354.75,TRUE,24,FALSE,121116.03,3294.6,4985
+01-03-23,Montreal East,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,185,2827,14039.35,TRUE,4,FALSE,8089.22,2956.3,10831
+02-03-23,Montreal East,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,88,1083,10995.27,TRUE,2,FALSE,10417.11,1906,8287
+03-03-23,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,197,2346,7062.75,TRUE,20,FALSE,24649.53,2637.3,9191
+03-03-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,142,2541,16464.96,TRUE,1,FALSE,21964.94,3158.1,9319
+04-03-23,Montreal East,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,462,4050,13991.77,TRUE,27,FALSE,65991.58,4680.9,9603
+05-03-23,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,379,4317,1016.17,TRUE,29,FALSE,58099.69,2516.3,6646
+06-03-23,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Canceled,497,1219,17081.73,TRUE,21,FALSE,18810.94,1783.5,5718
+07-03-23,Montreal North,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,380,2530,7161.4,TRUE,8,FALSE,28325.95,3500.3,5660
+08-03-23,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,612,3447,6770.38,FALSE,17,FALSE,91654.91,3063.7,7612
+08-03-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,948,2934,10261.99,TRUE,8,FALSE,36228.43,3751.9,7705
+09-03-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,969,4577,12817.31,FALSE,29,FALSE,175854.44,4716.6,5380
+10-03-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,668,2357,3623.99,TRUE,20,FALSE,79419.39,2631.7,6731
+11-03-23,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Canceled,211,1616,6015.09,TRUE,4,FALSE,27922.03,1926.2,6229
+12-03-23,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,195,1912,4526.78,TRUE,12,FALSE,50794.18,2495.4,9459
+13-03-23,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,566,2363,5370.54,TRUE,26,FALSE,77601.47,2484.2,5846
+13-03-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Canceled,83,1311,11068.32,TRUE,14,FALSE,9854.4,1624.4,10275
+14-03-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,392,2116,6000.93,TRUE,9,FALSE,25215.18,2037.6,5357
+15-03-23,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,150,1633,7934.83,TRUE,5,FALSE,7172.1,2196.6,8252
+16-03-23,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,196,3460,7718.33,TRUE,8,FALSE,32153.98,2177.7,10967
+17-03-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,841,1876,14379.61,TRUE,7,TRUE,104460.47,2531.3,10033
+18-03-23,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,757,2655,17419.33,TRUE,5,FALSE,183074.8,2026.8,6361
+18-03-23,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,443,921,9550.96,TRUE,12,FALSE,55947.4,1074.7,9317
+19-03-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,1088,729,10059.37,FALSE,27,FALSE,26711.89,1404.7,9876
+20-03-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Canceled,1072,2368,16856.65,TRUE,13,FALSE,139255.79,2907.4,11785
+21-03-23,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,344,3148,5452.87,TRUE,4,FALSE,34489.87,3424.2,11530
+22-03-23,Montreal West,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Pending,611,3471,1263.51,TRUE,15,FALSE,64643.21,3055.7,9389
+23-03-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,572,1730,13337.87,TRUE,24,FALSE,22511.07,1593.5,12231
+23-03-23,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,883,1282,18159.19,TRUE,9,FALSE,114752.93,1490.9,6691
+24-03-23,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Canceled,445,1571,11655.72,FALSE,28,FALSE,75399.28,2653.6,12642
+25-03-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,428,2819,3457.21,TRUE,13,FALSE,74687.86,2499.7,11203
+26-03-23,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,70,3409,6579.22,TRUE,13,FALSE,1891.34,3752,9109
+27-03-23,Montreal West,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Pending,393,2961,10354.54,TRUE,22,FALSE,25318.65,2727.1,4827
+28-03-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Pending,382,1236,14214.16,TRUE,29,FALSE,95997.67,2210.9,5713
+28-03-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Canceled,617,3133,5167.15,TRUE,15,FALSE,37339.36,2654.4,9182
+29-03-23,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,743,2177,10232.9,TRUE,7,FALSE,36182.89,1360.1,6439
+30-03-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,285,616,2573.89,TRUE,21,FALSE,24517.41,1607,7698
+31-03-23,Montreal North,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,457,2464,15877.08,TRUE,26,FALSE,74875.24,1508.5,8467
+01-04-23,Montreal South,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,262,853,3920.03,FALSE,1,FALSE,46341.99,1397.3,7043
+02-04-23,Montreal West,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,58,2382,10291.9,TRUE,22,FALSE,10612.69,2639.6,6546
+03-04-23,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Canceled,443,3350,7726.31,FALSE,26,FALSE,23536.84,3510.4,11172
+03-04-23,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,187,2492,11524.57,TRUE,29,FALSE,15377.39,2289,6403
+04-04-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Canceled,543,1599,9364.55,TRUE,27,FALSE,23215.58,2907.4,7076
+05-04-23,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,786,3252,15354.01,TRUE,8,FALSE,121006.93,4141,7910
+06-04-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,431,4311,4537.17,TRUE,13,FALSE,66014.58,2880.1,7444
+07-04-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,243,249,641.1,TRUE,20,FALSE,52786.96,2643.2,8047
+08-04-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,657,3523,7980.79,FALSE,12,FALSE,32146.92,4560.4,5503
+08-04-23,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,846,3754,5890.17,TRUE,16,FALSE,119175.53,2119,5929
+09-04-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Pending,73,448,858.62,TRUE,18,FALSE,11367.64,2677.7,7573
+10-04-23,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,367,4565,4981.48,TRUE,12,FALSE,27283.28,2586,10896
+11-04-23,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,456,543,4367.65,TRUE,1,FALSE,28565.73,742.4,7188
+12-04-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,328,1014,7451.81,TRUE,23,FALSE,35496.39,932.4,11026
+13-04-23,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Canceled,710,948,6468.57,TRUE,6,FALSE,74597.3,1493,10207
+13-04-23,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,52,1784,13268.49,TRUE,19,FALSE,10744.26,2263.3,10028
+14-04-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,598,1887,10873.13,FALSE,16,FALSE,63785.7,3443,9926
+15-04-23,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,271,3733,5169.3,TRUE,15,FALSE,17970.02,3400.6,6959
+16-04-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,439,1760,12166.02,TRUE,27,TRUE,21075.55,1187.5,8561
+17-04-23,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,63,469,13581.58,TRUE,7,FALSE,2454.16,1421.2,8515
+18-04-23,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,823,2764,13253.73,TRUE,21,FALSE,115842.48,2597.6,5802
+18-04-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,182,2429,8879.07,FALSE,21,FALSE,26997.14,2345.1,6790
+19-04-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,538,2393,6346.55,TRUE,27,FALSE,135312.68,2795.2,9720
+20-04-23,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,571,2490,8062.36,TRUE,14,FALSE,52266.22,2003,7445
+21-04-23,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,604,261,16210.09,TRUE,23,FALSE,58191,2715,10202
+22-04-23,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,674,4190,9855.47,TRUE,22,FALSE,115746,3636.6,12664
+23-04-23,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,1082,3499,12239.63,TRUE,17,FALSE,144575.65,4941.7,6888
+23-04-23,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,194,4486,1681.65,TRUE,8,TRUE,4928.92,3344.9,7308
+24-04-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Pending,342,1290,8088.2,TRUE,13,TRUE,29565.54,2560.8,8288
+25-04-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,194,3015,12926.17,TRUE,23,FALSE,22536.15,2423.9,6546
+26-04-23,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,502,1024,18028.47,TRUE,29,FALSE,32356.52,3483.1,5221
+27-04-23,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,1142,5044,3611.26,TRUE,8,FALSE,130134.39,2964.2,9436
+28-04-23,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,133,1539,6035.62,TRUE,16,FALSE,17326.35,3205.8,11656
+28-04-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,174,5076,2309.56,FALSE,1,FALSE,21050.98,2675.7,6750
+29-04-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Pending,419,629,3906.41,TRUE,24,FALSE,42706.14,509.5,8438
+30-04-23,Montreal North,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,559,397,13763.22,TRUE,3,FALSE,83642.63,1603,7446
+01-05-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,340,3520,7326.05,TRUE,26,FALSE,70986.12,3824.3,10404
+02-05-23,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,720,4736,2009.36,TRUE,25,FALSE,118439.86,2691.5,6579
+03-05-23,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,498,1301,13860.52,TRUE,15,FALSE,35617.07,2032.1,5775
+03-05-23,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,553,2748,10372.65,TRUE,24,TRUE,82838.21,1385.6,9712
+04-05-23,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,98,444,17422.16,FALSE,24,FALSE,13214.13,2532.5,8747
+05-05-23,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Canceled,93,3111,13078.39,TRUE,9,FALSE,7370.21,2937.9,9847
+06-05-23,Montreal West,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,400,771,14805.9,TRUE,13,TRUE,36098.22,1975.6,6994
+07-05-23,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,707,3869,7843.58,TRUE,23,FALSE,86866.22,1963.2,9985
+08-05-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,357,653,9214.96,TRUE,19,FALSE,29846.32,1796.7,5811
+08-05-23,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,440,2377,13692.71,TRUE,17,FALSE,43458.33,2878.2,7513
+09-05-23,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,879,2356,10707.3,TRUE,24,FALSE,85495.19,2265.1,10130
+10-05-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,141,889,3340.8,TRUE,15,FALSE,8711.69,1573.3,5259
+11-05-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,883,1933,11508.37,TRUE,7,FALSE,202148.97,1774.1,9544
+12-05-23,Montreal South,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,682,390,9961.63,TRUE,18,FALSE,113329.4,2452.6,10749
+13-05-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,1125,3744,14245.23,TRUE,16,FALSE,67700.45,5256,10893
+14-05-23,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Canceled,852,4085,2293.51,TRUE,1,FALSE,150543.67,4288.2,7742
+14-05-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,288,3261,1218.36,TRUE,14,FALSE,7216.34,3376.6,6883
+15-05-23,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,318,3574,16292.81,TRUE,16,FALSE,74835.96,2497.6,7088
+16-05-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,558,1314,3652.42,TRUE,8,FALSE,59288.8,3372.9,5025
+17-05-23,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,552,3627,13758.67,TRUE,14,FALSE,131701.36,5740.1,9230
+18-05-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,109,4853,5770.37,TRUE,14,FALSE,6018.03,3939.8,8196
+19-05-23,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,531,1078,4535.7,TRUE,1,FALSE,111382.44,2926.7,7679
+19-05-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,213,3650,11006.88,TRUE,14,FALSE,12443.04,2413.8,4796
+20-05-23,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Canceled,916,613,4264.4,TRUE,12,TRUE,98453.52,3181.3,5899
+21-05-23,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,487,5853,10853.3,TRUE,29,FALSE,30534.07,5755.9,7710
+22-05-23,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,540,5044,1035.64,TRUE,10,FALSE,35277.39,4532.7,7868
+23-05-23,Montreal East,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,769,4022,13769.22,TRUE,25,FALSE,103346.11,2936.5,10418
+24-05-23,Montreal North,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,443,1448,14751.03,TRUE,28,FALSE,115919.51,1512.6,4943
+24-05-23,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Canceled,294,1299,9501.97,TRUE,9,FALSE,57267.97,1563.9,10584
+25-05-23,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,502,1621,16466.24,TRUE,13,FALSE,31690.15,3691,7049
+26-05-23,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,744,4366,7892.06,TRUE,21,FALSE,20357.05,3546.3,7786
+27-05-23,Montreal East,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,227,1958,2744.6,TRUE,27,FALSE,23170.54,2849.2,9606
+28-05-23,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,305,3728,6594.65,TRUE,15,FALSE,22120.44,1983.1,7018
+29-05-23,Montreal North,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,236,222,15105.57,TRUE,15,FALSE,7969.25,2611.5,5704
+29-05-23,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,446,4661,6831.14,TRUE,20,FALSE,68013.63,3058.6,8443
+30-05-23,Montreal South,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,791,762,6874.69,TRUE,27,FALSE,64220.51,1956.6,7395
+31-05-23,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,838,2946,4186.95,TRUE,4,FALSE,144610.93,3932.2,7042
+01-06-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Pending,998,4163,12636.8,TRUE,3,FALSE,78515.69,2771.8,10585
+02-06-23,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,200,1060,1698.44,TRUE,13,FALSE,35459.21,2188.3,8227
+03-06-23,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,909,3625,4577.88,TRUE,14,TRUE,50919.71,4308.6,7500
+03-06-23,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,497,4828,3429.97,TRUE,28,FALSE,63842.46,4132.7,5859
+04-06-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,129,4581,13267.76,TRUE,24,FALSE,7130.91,2054.9,8847
+05-06-23,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,226,222,7956.64,TRUE,8,FALSE,42860.74,1509.9,10495
+06-06-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,527,1926,4736.76,TRUE,25,FALSE,16029.81,4090,8801
+07-06-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,64,4791,2223.04,TRUE,8,TRUE,11235.83,3030.7,9839
+08-06-23,Montreal North,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,545,2125,14425.56,TRUE,21,FALSE,15749.84,1168.3,11072
+08-06-23,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Pending,149,316,8293.98,TRUE,11,FALSE,36904.7,1867.4,10178
+09-06-23,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,388,3121,7189.04,TRUE,22,FALSE,11829.1,3909.7,8745
+10-06-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,245,4108,9569.4,TRUE,13,FALSE,36259.97,4180.8,8974
+11-06-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,593,4201,13615.14,FALSE,1,TRUE,51124.68,4742.2,6429
+12-06-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,73,3788,11233.95,TRUE,16,TRUE,7412.93,2410,5530
+13-06-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,563,560,7768.39,TRUE,13,FALSE,36981.37,2381.1,5608
+13-06-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,139,3736,9615.74,TRUE,5,FALSE,25852.27,2750.3,12327
+14-06-23,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,1062,2529,13224.69,FALSE,27,FALSE,120892.47,2953.1,11483
+15-06-23,Montreal South,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,250,3233,12316.05,TRUE,19,TRUE,42920.61,4275.4,7595
+16-06-23,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Canceled,884,2975,8383.99,FALSE,8,FALSE,113726.47,3957,10926
+17-06-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Canceled,1005,2695,13967.7,FALSE,4,FALSE,45508.24,3124.4,6002
+18-06-23,Montreal North,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,727,2337,8093.91,TRUE,26,FALSE,78331.96,3755,5319
+18-06-23,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,603,3746,4788.42,TRUE,27,FALSE,15903.23,4456.3,9683
+19-06-23,Montreal West,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,377,2869,10962.11,TRUE,6,FALSE,59397.46,3461,9986
+20-06-23,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,703,4726,18164.39,TRUE,15,FALSE,155063.61,3485.6,6598
+21-06-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,459,1447,4022.37,TRUE,26,FALSE,57066.71,3150.4,8084
+22-06-23,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,1162,3839,5325.07,TRUE,28,FALSE,187252.57,2501.6,9575
+23-06-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,202,150,12448,TRUE,14,FALSE,14763.84,1651.5,6730
+23-06-23,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,541,3588,11037.28,TRUE,20,FALSE,103819.74,3292.1,6586
+24-06-23,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,523,4400,7835.78,TRUE,5,FALSE,36017.96,3062.6,5576
+25-06-23,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,913,1047,16776.51,TRUE,3,FALSE,200393.99,1128.3,6097
+26-06-23,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,631,1152,12256.94,TRUE,9,FALSE,28111.69,2538.9,6697
+27-06-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,781,2866,12832.4,TRUE,16,FALSE,63771.15,2846.7,6722
+28-06-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,193,1761,16580.56,TRUE,11,FALSE,32830.61,1932.9,10570
+29-06-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,260,1373,11775.23,TRUE,8,FALSE,29266.72,3115,8043
+29-06-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,327,4831,3857.33,TRUE,28,FALSE,45906.49,2651.1,8558
+30-06-23,Montreal South,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,1045,482,10652.93,TRUE,20,FALSE,191280.78,2375.2,10657
+01-07-23,Montreal North,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,251,4960,1721.26,TRUE,26,FALSE,19776.09,4829.1,7008
+02-07-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Canceled,805,4065,11462.61,TRUE,28,FALSE,61227.83,4454.2,10920
+03-07-23,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,593,5080,9126.96,TRUE,27,FALSE,118017.86,4067,9374
+04-07-23,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,689,2786,1060.07,TRUE,23,FALSE,32847.56,3968.5,7245
+04-07-23,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,956,5647,1688.98,TRUE,3,FALSE,126482.6,5352,7438
+05-07-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,352,3856,1580.65,TRUE,15,FALSE,28379.29,2432.2,8826
+06-07-23,Montreal West,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,177,653,10582.54,TRUE,12,TRUE,22913.64,639.7,5859
+07-07-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,828,734,5557.14,TRUE,19,FALSE,31505.09,2634.5,6462
+08-07-23,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,939,3544,6231.17,TRUE,4,TRUE,114235.08,2639,9264
+09-07-23,Montreal South,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,220,408,9186.61,TRUE,1,TRUE,18445.27,341.3,8344
+09-07-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,699,137,17304.25,TRUE,27,FALSE,100105.82,513.1,6406
+10-07-23,Montreal South,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,876,930,2609.8,TRUE,6,FALSE,80598.13,1737.3,9425
+11-07-23,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1047,2107,3291.11,TRUE,12,FALSE,35189.98,3845.3,11403
+12-07-23,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Pending,492,3861,11359.91,TRUE,23,FALSE,30894.42,2820.2,6581
+13-07-23,Montreal South,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,244,128,4589.25,TRUE,18,FALSE,8124.78,404.2,9091
+14-07-23,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,787,568,13465.45,FALSE,21,TRUE,24990.3,570.9,8644
+14-07-23,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,442,466,12881.82,TRUE,5,FALSE,18677.49,2960.8,11358
+15-07-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,166,5165,16528.24,TRUE,7,FALSE,10504.03,3547.6,5411
+16-07-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Canceled,891,2464,13127.71,TRUE,6,TRUE,139650.79,3385.9,5694
+17-07-23,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Pending,732,2859,5903.08,TRUE,20,FALSE,22522.3,3350,10603
+18-07-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,610,1948,9770.33,FALSE,29,FALSE,21184.83,1187.2,8437
+19-07-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,271,288,9935.46,TRUE,7,FALSE,45963.72,1318.1,7529
+19-07-23,Montreal North,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Pending,68,1991,1730.77,TRUE,14,FALSE,15923.61,3595.6,10918
+20-07-23,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,1112,5277,9797.55,TRUE,26,FALSE,64912.7,3893.9,6592
+21-07-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,830,3469,5226.43,TRUE,29,FALSE,32586.39,4493.8,8804
+22-07-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,554,3755,14187.92,TRUE,13,FALSE,14628.94,4597.1,6346
+23-07-23,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,385,3349,3301.96,TRUE,23,FALSE,90536.44,4652.2,6024
+24-07-23,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,955,4412,7175.14,TRUE,10,FALSE,60505.84,4721.2,6064
+24-07-23,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,687,3303,15050.92,TRUE,22,FALSE,124595.2,3298.1,5641
+25-07-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,1044,2332,6334.46,TRUE,21,TRUE,72623.27,1832.1,9315
+26-07-23,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Pending,163,1256,14163.42,TRUE,5,TRUE,14395.44,1101.8,7478
+27-07-23,Montreal West,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,73,760,1902.86,TRUE,16,FALSE,2494.45,933.2,6002
+28-07-23,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,578,749,9404.28,TRUE,24,FALSE,140447.85,2555.5,7091
+29-07-23,Montreal East,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,571,3429,6134.27,TRUE,29,TRUE,31629.46,2133.3,6225
+29-07-23,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,713,791,2388.43,TRUE,27,FALSE,72668.95,2401.6,8883
+30-07-23,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,96,4116,17120.08,TRUE,8,FALSE,2465.83,4243.9,5848
+31-07-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,744,5317,5351.43,TRUE,6,FALSE,90258.18,4266.9,5645
+01-08-23,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,418,3880,15331.14,FALSE,4,FALSE,101531.71,3348.2,10261
+02-08-23,Montreal North,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,896,2885,14308.03,FALSE,27,TRUE,100805.85,3835.6,11080
+03-08-23,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,124,4519,11485.66,TRUE,16,FALSE,19233.16,4253,8602
+03-08-23,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,693,4164,15473.22,TRUE,9,FALSE,65028.82,4261.8,6193
+04-08-23,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Pending,730,3918,5475.87,TRUE,19,FALSE,135060.31,2660.8,9681
+05-08-23,Montreal West,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,560,1254,2903.01,TRUE,4,FALSE,28891.07,1825.2,8640
+06-08-23,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,436,3122,2999.36,TRUE,19,FALSE,14390.89,3124.1,8745
+07-08-23,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,338,3782,4197.27,TRUE,19,FALSE,48809.2,2612.9,6102
+08-08-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,304,999,4363,TRUE,24,FALSE,19661.54,2400.1,6994
+09-08-23,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,492,3647,11905.85,TRUE,6,FALSE,48282.14,2788,5226
+09-08-23,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Pending,350,1265,4564.24,TRUE,13,FALSE,31678.13,1812.1,12582
+10-08-23,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,756,2039,6270,TRUE,7,FALSE,27187.65,1464.8,10806
+11-08-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,122,329,1022.59,TRUE,14,FALSE,9727.21,2377,7410
+12-08-23,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,619,4415,9035.69,TRUE,19,FALSE,95168.77,5464.4,5857
+13-08-23,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,866,5227,12464.63,TRUE,12,FALSE,76225.43,5305.2,9008
+14-08-23,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,237,3850,13907.16,FALSE,25,FALSE,41794.12,2997.4,7216
+14-08-23,Montreal South,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,301,1065,11025.36,TRUE,13,FALSE,34060.5,2029.9,11218
+15-08-23,Montreal East,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,151,2294,13589.32,TRUE,28,FALSE,27964.51,2249.9,8408
+16-08-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,135,2150,10108.76,TRUE,12,FALSE,19050.15,1717.6,10674
+17-08-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,279,1002,7739.14,TRUE,22,TRUE,49089.81,756.2,10038
+18-08-23,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,354,625,12989.6,TRUE,28,FALSE,54880.05,2319,5349
+19-08-23,Montreal North,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,769,3958,6498.75,TRUE,17,FALSE,61627.91,2861.5,7807
+19-08-23,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,541,1118,13652.48,TRUE,12,FALSE,67868.59,1423.4,7756
+20-08-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Pending,643,866,9801.59,TRUE,23,FALSE,44120.58,2938.5,5989
+21-08-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,462,5002,6645.31,TRUE,19,TRUE,88272.58,4771.1,9919
+22-08-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,90,3436,2827.71,FALSE,24,FALSE,9260.57,1969.8,6072
+23-08-23,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Canceled,1029,303,10405.5,TRUE,13,FALSE,187699.51,1805,7842
+24-08-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,1072,2554,12883.66,TRUE,13,FALSE,74382.04,3419.6,9980
+24-08-23,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Canceled,288,3578,10419.47,FALSE,18,FALSE,34526.67,2894.8,5989
+25-08-23,Montreal East,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,634,3409,8536.17,TRUE,19,FALSE,55026.75,2286.6,5377
+26-08-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,590,1147,15478.81,TRUE,8,FALSE,139947.09,1898.7,4800
+27-08-23,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,451,2683,5237.78,TRUE,7,FALSE,48158.42,3712.4,5043
+28-08-23,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,341,3608,18255.4,TRUE,3,FALSE,36222.94,3664.4,8956
+29-08-23,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,72,2458,7609.25,TRUE,24,FALSE,11611.13,3789.6,8064
+29-08-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,248,3298,10273.8,TRUE,27,TRUE,19701.27,1729.4,8937
+30-08-23,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,832,451,16197.89,TRUE,11,FALSE,101365.18,2752.5,9895
+31-08-23,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,649,4223,9605.76,TRUE,10,TRUE,51008.49,3143.7,7936
+01-09-23,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,428,710,9473.52,TRUE,2,FALSE,52269.82,1411.9,9427
+02-09-23,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,614,2170,3461.99,TRUE,18,FALSE,56401.24,3350.6,7283
+03-09-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Canceled,501,3750,2327.83,TRUE,3,FALSE,21327.71,2510.5,6137
+03-09-23,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Pending,520,341,1344.64,TRUE,18,FALSE,83825.41,2753,10808
+04-09-23,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,178,4399,18240.53,TRUE,15,FALSE,37859.92,4745.6,11329
+05-09-23,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Canceled,848,3123,8334.1,FALSE,25,FALSE,142140.45,3925.7,10030
+06-09-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,369,4377,10736.58,TRUE,20,FALSE,57195.09,4429.1,7418
+07-09-23,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,925,5816,9196.64,TRUE,29,FALSE,186854.51,3804.5,7022
+08-09-23,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,622,1590,13328.37,TRUE,1,FALSE,106141.33,1019.7,7785
+08-09-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,387,651,9278.1,TRUE,19,FALSE,24140.43,2189.7,12010
+09-09-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,871,3368,3525.18,TRUE,22,FALSE,85328.09,4728.8,9705
+10-09-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Canceled,611,3614,12102.79,FALSE,7,FALSE,100143.13,3610.5,8011
+11-09-23,Montreal West,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,950,1331,13909.78,TRUE,14,FALSE,91631.81,3431.3,11763
+12-09-23,Montreal North,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Pending,1090,4303,1442.03,TRUE,17,TRUE,98418.46,3463,8544
+13-09-23,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,282,3191,9570.81,TRUE,28,FALSE,11335.57,4020.5,11018
+13-09-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,1013,4593,9404.3,TRUE,9,FALSE,143306.45,4260.1,6447
+14-09-23,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,795,4211,14582.94,TRUE,6,FALSE,55019.34,5542.2,11422
+15-09-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,661,3762,5177.86,TRUE,28,TRUE,58727.5,4012.3,6890
+16-09-23,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Pending,289,1981,10830.58,TRUE,2,FALSE,7690.03,1633.7,9244
+17-09-23,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,276,1185,9832.23,TRUE,4,FALSE,30431.37,1853,9295
+18-09-23,Montreal North,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,461,3118,14032.16,TRUE,21,FALSE,19117.21,3465.2,7955
+18-09-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Pending,193,4375,15172.6,TRUE,5,FALSE,5427.34,5077.6,6415
+19-09-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,567,3508,4167.82,TRUE,6,TRUE,63644,4357.8,9297
+20-09-23,Montreal North,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,118,4021,5274.95,TRUE,16,FALSE,21594,2493.1,7121
+21-09-23,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,595,355,13961.42,TRUE,20,FALSE,102103.56,1298.2,9356
+22-09-23,Montreal North,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,346,2217,12942.61,TRUE,16,FALSE,18569.52,2002.8,8631
+23-09-23,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,885,802,8641.55,TRUE,25,FALSE,65520.11,2143,7761
+24-09-23,Montreal West,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,538,3654,6626.49,TRUE,24,FALSE,101345.03,2351.2,8770
+24-09-23,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,495,975,11052.76,TRUE,25,FALSE,65340.77,2182.6,9054
+25-09-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,629,3598,2905.33,TRUE,25,TRUE,121687.62,2614.3,9694
+26-09-23,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,1072,1578,693.93,TRUE,27,TRUE,60808.59,2775.5,8203
+27-09-23,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,484,3842,3736.9,TRUE,6,FALSE,123624.04,5187.3,5996
+28-09-23,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,1157,4303,13765.21,TRUE,29,TRUE,167275.68,2447,9468
+29-09-23,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,220,591,4884.93,TRUE,21,FALSE,16596.6,1173.2,10502
+29-09-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Canceled,941,1329,11513.5,FALSE,9,TRUE,26327.57,1936.7,7420
+30-09-23,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,762,3449,7539.17,TRUE,11,FALSE,181547.69,1600.5,8685
+01-10-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,601,470,16499.2,TRUE,19,TRUE,68023.56,813.7,10645
+02-10-23,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,676,1224,15699.57,FALSE,6,TRUE,165032.19,1972.7,8107
+03-10-23,Montreal South,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,874,3166,12508.19,TRUE,12,FALSE,72991.99,1757.2,8418
+04-10-23,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,924,757,9271.59,TRUE,17,TRUE,64904.11,1507.4,6848
+04-10-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,308,2885,10163.3,TRUE,10,FALSE,71235.51,1994.9,9994
+05-10-23,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Canceled,436,1597,2278.67,TRUE,9,FALSE,29981.91,2162.8,7649
+06-10-23,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,536,2629,12449.76,TRUE,20,FALSE,79305.1,2639.6,5030
+07-10-23,Montreal South,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,372,1901,15238.98,TRUE,11,FALSE,13704.75,1783.8,7342
+08-10-23,Montreal East,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,529,784,10640.47,TRUE,16,FALSE,77812.86,2275.1,9731
+09-10-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,731,2670,7128.87,TRUE,14,FALSE,48150.27,1361,9465
+09-10-23,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,389,312,2685.57,TRUE,21,FALSE,32382.72,274.9,9538
+10-10-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,233,163,2179.45,TRUE,12,FALSE,5423.9,2217.3,8066
+11-10-23,Montreal South,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,842,3279,7883.57,TRUE,2,FALSE,83590.87,3647.2,9088
+12-10-23,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Pending,1060,4626,5399.33,TRUE,7,TRUE,155949.05,5001.1,11212
+13-10-23,Montreal North,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,376,4605,5653.03,TRUE,8,FALSE,42972.63,3189.9,6408
+14-10-23,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,626,2435,18590.17,TRUE,12,FALSE,81436.22,3502.5,5840
+14-10-23,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,625,2824,3713.56,TRUE,6,TRUE,68887.28,3669,7481
+15-10-23,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,221,3349,13559,TRUE,15,FALSE,53155.2,4077.8,9269
+16-10-23,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,143,2469,10889.8,TRUE,16,FALSE,10655.52,2787.5,7960
+17-10-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,400,1579,5397.89,TRUE,1,FALSE,35803.88,1431.9,7025
+18-10-23,Montreal East,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,545,1086,9200.44,TRUE,21,FALSE,26929.02,696.2,11836
+19-10-23,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,562,330,8508.64,TRUE,26,TRUE,54713.03,2977.6,6547
+19-10-23,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,305,4285,6509.25,FALSE,23,FALSE,39440.92,5828.4,8432
+20-10-23,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,337,4737,2045.15,FALSE,16,FALSE,7190.44,5473,9376
+21-10-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,630,4178,6179.14,TRUE,27,FALSE,145594.6,2660.9,8508
+22-10-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,190,349,13325.33,TRUE,13,FALSE,21886.4,2884.4,6187
+23-10-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,550,3859,13188.03,TRUE,12,TRUE,38845.42,2565.6,8817
+24-10-23,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Canceled,581,972,1810.68,TRUE,16,TRUE,51739.39,2201.3,8759
+24-10-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,647,3024,5385.06,TRUE,11,FALSE,119672.26,4070.3,8053
+25-10-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,405,4641,11063.3,TRUE,26,FALSE,68390.78,3877,9529
+26-10-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,1063,2139,4068.58,TRUE,25,FALSE,113897.75,2143.3,5734
+27-10-23,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,263,1857,6927.97,TRUE,21,FALSE,20363.09,1730.4,8819
+28-10-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,756,1859,5741.4,TRUE,18,FALSE,48434.39,3445.9,11289
+29-10-23,Montreal South,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,121,4966,13731.71,FALSE,17,TRUE,7976.48,3330.7,4916
+29-10-23,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,639,912,9630.78,TRUE,11,FALSE,82960.99,1361.2,9857
+30-10-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Pending,160,1575,15459.41,TRUE,24,FALSE,14553.1,3057.8,11128
+31-10-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,491,4479,15919.83,TRUE,8,FALSE,34286.13,3823.8,9775
+01-11-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Canceled,422,4526,11629.58,TRUE,4,FALSE,42256.88,4075.8,7048
+02-11-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Canceled,908,3599,6571.17,TRUE,29,FALSE,76241.78,4579.5,9019
+03-11-23,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,809,4754,809.81,TRUE,18,FALSE,103428.2,3584.5,10164
+04-11-23,Montreal South,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,304,2396,9213.58,TRUE,10,FALSE,33186.96,3611.2,9547
+04-11-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,443,3276,10302.45,TRUE,13,TRUE,88625.22,2407.9,5711
+05-11-23,Montreal East,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Canceled,850,1869,2773.81,TRUE,21,TRUE,104390.54,3593.7,9166
+06-11-23,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Canceled,692,3208,11341.21,TRUE,14,FALSE,115993.05,2317.5,7637
+07-11-23,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,430,389,900.37,FALSE,5,FALSE,21119.08,2384,8330
+08-11-23,Montreal North,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,678,3172,10324.86,TRUE,6,FALSE,22928.69,3977.2,10389
+09-11-23,Montreal East,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,220,5363,980.77,TRUE,15,FALSE,17652.85,4129.4,7663
+09-11-23,Montreal West,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,1056,2553,5756.34,FALSE,7,FALSE,134278.34,2486.9,8643
+10-11-23,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,479,1558,9682.16,TRUE,8,FALSE,13555.63,1293.1,8677
+11-11-23,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,477,856,11108.48,TRUE,4,FALSE,89241.3,908.4,6028
+12-11-23,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Canceled,121,628,4950.32,TRUE,21,FALSE,10800.87,2076.1,5514
+13-11-23,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,1128,2893,10415.16,TRUE,12,FALSE,39983.79,4187.1,5516
+14-11-23,Montreal North,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,613,3273,14757.79,TRUE,24,FALSE,89358.09,2323.9,6651
+14-11-23,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,325,1574,12630.17,TRUE,16,FALSE,16638.67,2589.9,7084
+15-11-23,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,484,2720,14870.69,TRUE,21,FALSE,54059.18,3270.6,8809
+16-11-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,721,3150,11537.21,TRUE,19,FALSE,111293.79,3548.1,11071
+17-11-23,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,676,2658,6004.55,FALSE,21,FALSE,47261.87,1878.7,7908
+18-11-23,Montreal North,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Pending,464,362,1574.62,TRUE,5,FALSE,34751.13,463.9,7139
+19-11-23,Montreal West,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,763,408,10519.03,FALSE,14,FALSE,117461.28,1785.1,6348
+19-11-23,Montreal North,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,444,3562,1831.39,TRUE,9,FALSE,76074.72,3637,6072
+20-11-23,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,314,4447,3173.62,TRUE,8,FALSE,34185.96,4717.4,5749
+21-11-23,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Pending,550,2967,6595.53,TRUE,24,FALSE,35001.88,3666.4,11698
+22-11-23,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,360,3460,7690.24,TRUE,25,FALSE,32024.88,3523.8,6655
+23-11-23,Montreal West,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,571,2744,1614.42,TRUE,7,FALSE,36474.56,3466,10572
+24-11-23,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,621,4909,10119.77,TRUE,20,FALSE,24791.52,2780.5,6241
+24-11-23,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,489,1471,12309.18,TRUE,27,FALSE,79657.54,2385.5,7896
+25-11-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,50,3539,9311.55,TRUE,12,FALSE,9398.27,3339.7,7183
+26-11-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,328,2740,12254.86,TRUE,26,FALSE,49183.51,4225.4,5396
+27-11-23,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,579,4206,9256.92,TRUE,27,FALSE,123916.12,4230.9,5782
+28-11-23,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,103,2877,10695.99,TRUE,25,FALSE,3052.85,2262.5,9923
+29-11-23,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,306,1619,12996.75,TRUE,23,FALSE,30315.55,2056.9,10224
+29-11-23,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,694,2520,18542.37,TRUE,3,FALSE,136686.83,2633.9,11351
+30-11-23,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,182,2625,12969.87,TRUE,23,FALSE,12380.59,2958.5,6404
+01-12-23,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,546,1685,8826.69,TRUE,28,FALSE,73186.68,2068.2,5204
+02-12-23,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,150,1749,12930.08,TRUE,26,FALSE,35027.44,2710.2,8497
+03-12-23,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,494,2901,9977.4,TRUE,3,FALSE,57598.32,3616.3,9601
+04-12-23,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Pending,667,3995,18214.84,TRUE,18,FALSE,16577.38,2321.4,9339
+04-12-23,Montreal South,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,319,89,17595.63,TRUE,26,FALSE,61765.67,2041.2,6421
+05-12-23,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,1082,4562,6878.2,TRUE,13,FALSE,175470.81,3178.9,9715
+06-12-23,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Canceled,812,2138,14734.38,TRUE,26,FALSE,97195.13,1302.2,5554
+07-12-23,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,597,734,1526.51,TRUE,18,FALSE,121281.9,3220,9292
+08-12-23,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,945,5636,15518.29,TRUE,27,TRUE,189465.28,3904.2,10251
+09-12-23,Montreal East,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,99,2390,9250.01,FALSE,10,FALSE,3855.61,2769.2,9557
+09-12-23,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,528,3317,3551.42,TRUE,23,FALSE,17437.04,3417.3,8891
+10-12-23,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,774,3720,9380.39,TRUE,3,FALSE,137002.69,2835.6,7803
+11-12-23,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Pending,551,1178,7339,TRUE,19,FALSE,95158.11,1187.3,8460
+12-12-23,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,927,842,13481.66,FALSE,16,FALSE,237275.57,2807.8,6069
+13-12-23,Montreal South,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Canceled,643,5809,16641.62,TRUE,19,FALSE,40541.95,4736,9623
+14-12-23,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1106,3561,12292.34,FALSE,19,FALSE,201866.38,3159.3,7848
+14-12-23,Montreal North,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,1023,2926,17749.16,FALSE,6,FALSE,117356.91,4606.8,5815
+15-12-23,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,580,4214,1156.69,TRUE,22,FALSE,61813.38,5137.1,7211
+16-12-23,Montreal South,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,1140,5628,7892.04,TRUE,12,FALSE,93303.85,2838.4,6434
+17-12-23,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,927,1000,2289.24,TRUE,1,FALSE,160396.58,2074.9,9977
+18-12-23,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,384,3231,6550.62,TRUE,12,FALSE,52210.03,4217.8,7245
+19-12-23,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,309,2845,4611.4,TRUE,5,FALSE,21274.56,2262.8,6510
+20-12-23,Montreal South,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,382,295,16450.13,TRUE,15,FALSE,70621.16,257.7,12016
+20-12-23,Montreal South,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,266,222,9087.25,TRUE,22,FALSE,22664.66,246.7,7279
+21-12-23,Montreal South,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,336,329,2280.02,TRUE,9,FALSE,10812.61,415.6,8022
+22-12-23,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,474,442,811.18,TRUE,10,FALSE,67002.48,619.3,10632
+23-12-23,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1006,390,2914.66,TRUE,7,FALSE,214028.87,436.7,6849
+24-12-23,Montreal North,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,974,385,2720.75,TRUE,13,FALSE,173778,1131.3,8361
+25-12-23,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,108,1899,6076.55,TRUE,9,FALSE,20225.39,3253.3,10605
+25-12-23,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,488,4506,8309.81,FALSE,18,TRUE,19000.22,3881.2,10524
+26-12-23,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,356,2571,12763.87,TRUE,2,FALSE,48990.07,2608.6,9914
+27-12-23,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,256,2405,4420.27,TRUE,22,FALSE,10832.93,3400,9340
+28-12-23,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,827,4400,4532.32,TRUE,8,FALSE,59420.88,4729.3,9168
+29-12-23,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Pending,739,4070,10898.52,FALSE,29,TRUE,129590.3,5139.5,6307
+30-12-23,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Pending,306,4516,5965.52,TRUE,3,TRUE,37486.01,2199,11456
+30-12-23,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,1061,677,6197.63,TRUE,26,FALSE,117574.57,1564.6,7515
+31-12-23,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,396,2611,6568.5,TRUE,12,TRUE,66653.19,3833.4,6123
+01-01-24,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,920,5287,3284.3,TRUE,28,FALSE,105747.06,4716.5,5727
+02-01-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,814,4834,16207.18,TRUE,29,FALSE,76362.57,2352.1,6407
+03-01-24,Montreal South,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,1021,561,5631.44,TRUE,5,FALSE,183193.93,1650,9281
+04-01-24,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,896,2472,7830.4,TRUE,5,FALSE,117562.11,4712.6,7377
+04-01-24,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,413,4952,671.69,TRUE,24,FALSE,73287.37,3072.8,9062
+05-01-24,Montreal South,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,280,405,8904.73,TRUE,28,FALSE,8611.35,1268.2,5832
+06-01-24,Montreal West,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,429,1666,9527.21,TRUE,4,FALSE,21208.38,1354.2,7170
+07-01-24,Montreal South,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Canceled,697,330,6488.3,TRUE,18,FALSE,90757.83,288,7896
+08-01-24,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,752,223,1372.87,TRUE,20,FALSE,150016.08,545,8524
+09-01-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,579,738,16896.45,TRUE,10,FALSE,96163.09,1739.1,9169
+09-01-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,493,2658,3683.43,TRUE,21,FALSE,18286.94,1861.1,8578
+10-01-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,90,124,1538.3,TRUE,12,FALSE,13380.01,2009.8,6103
+11-01-24,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,825,4406,7637.56,TRUE,13,FALSE,28004.99,3295.8,7210
+12-01-24,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Pending,962,1262,11497.44,TRUE,10,FALSE,83258.39,753.3,6992
+13-01-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,427,182,6651.83,TRUE,26,FALSE,30761.77,1678.9,6422
+14-01-24,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,271,2250,6452.52,TRUE,29,FALSE,36339.11,2185.8,5735
+14-01-24,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,726,1430,12266.53,TRUE,12,FALSE,154817.93,1863,5533
+15-01-24,Montreal East,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,444,1998,675.37,TRUE,29,FALSE,111410.02,1432.9,9372
+16-01-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,702,748,10809.21,TRUE,11,FALSE,72915.24,2419.6,7409
+17-01-24,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Canceled,833,2838,7492.83,TRUE,19,FALSE,76980.71,2391.7,6683
+18-01-24,Montreal West,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,291,982,5297.75,TRUE,18,FALSE,56382.61,1649.9,6631
+19-01-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,462,2239,2376.7,TRUE,6,FALSE,64155.12,2109.3,6887
+19-01-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,70,2157,15523.05,TRUE,7,TRUE,3700.05,3621.6,6319
+20-01-24,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,180,4131,3854.5,TRUE,19,FALSE,26978.43,2633.1,5631
+21-01-24,Montreal North,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,947,153,13213.49,TRUE,16,FALSE,156742.02,653.5,9851
+22-01-24,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,107,921,15989.11,TRUE,7,FALSE,16415.8,651,6448
+23-01-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,411,405,13298.79,TRUE,9,FALSE,38015.93,1321.5,9540
+24-01-24,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,1132,1586,15470.21,TRUE,24,FALSE,28357.88,1309.5,5033
+24-01-24,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,78,408,4996.81,TRUE,13,FALSE,3711.24,1182,6402
+25-01-24,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,659,1808,9044.94,TRUE,2,FALSE,43254.94,2259.7,9161
+26-01-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,896,2489,13675.94,TRUE,1,FALSE,146541.07,4199.3,9583
+27-01-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Pending,997,4651,11643.35,TRUE,13,FALSE,169664.39,2635.9,5591
+28-01-24,Montreal East,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,884,1614,4054.68,TRUE,9,FALSE,99060.54,2734,6976
+29-01-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,205,3917,9511.4,TRUE,17,FALSE,5430.47,4138,8279
+30-01-24,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,294,4948,13033.8,TRUE,24,FALSE,5988.18,4657.8,5592
+30-01-24,Montreal East,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Canceled,88,3040,607.98,TRUE,19,FALSE,11544.11,2823.6,6172
+31-01-24,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Pending,830,2908,10427.28,TRUE,10,FALSE,94332.73,2086.8,8336
+01-02-24,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Pending,761,663,12925.54,TRUE,16,FALSE,46147.88,1198.9,10230
+02-02-24,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,1195,1479,2178.76,TRUE,4,FALSE,153027.3,2124.8,6786
+03-02-24,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,144,2320,16160.73,TRUE,9,FALSE,7752.57,3161.4,10426
+04-02-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Pending,108,3329,2728.31,TRUE,29,FALSE,6566.43,3028.2,6569
+04-02-24,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,585,1034,9125.31,TRUE,10,FALSE,44821.94,996.9,8876
+05-02-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,128,715,566.71,TRUE,29,FALSE,13677.96,1821.1,8868
+06-02-24,Montreal West,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,503,2671,15946.26,TRUE,7,FALSE,97022.2,3688.4,6917
+07-02-24,Montreal North,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,232,3821,3134.32,TRUE,11,FALSE,18129.13,3175,10209
+08-02-24,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,999,1153,2167.62,TRUE,14,FALSE,127000.95,1335.4,10443
+09-02-24,Montreal South,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Pending,692,1249,2008.4,TRUE,26,FALSE,14777.96,1634.2,6730
+09-02-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,178,2252,5099.28,TRUE,22,FALSE,6866.47,4374.1,6400
+10-02-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,633,4719,2270.93,TRUE,20,FALSE,131845.97,3558.7,6418
+11-02-24,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,165,1786,5256.48,TRUE,7,FALSE,20539.03,1265.8,9806
+12-02-24,Montreal North,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,689,987,933.94,TRUE,9,FALSE,64994.11,1986.5,9301
+13-02-24,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,297,2895,5159.32,TRUE,16,FALSE,23234.41,2967.7,6732
+14-02-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Pending,813,2984,7848.97,TRUE,5,FALSE,46447.96,2722.3,9209
+14-02-24,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,703,1837,1889.36,TRUE,20,FALSE,61624.01,2446.9,9042
+15-02-24,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,102,2597,7289.46,TRUE,12,FALSE,20648.84,3619.6,10975
+16-02-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,260,2862,9997.13,TRUE,7,TRUE,78250.39,3450.6,6918
+17-02-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,592,3944,11831.51,TRUE,10,FALSE,130964.04,3499.5,8255
+18-02-24,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,255,3069,5400.48,TRUE,19,FALSE,14182.72,2783.9,4814
+19-02-24,Montreal North,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,235,2125,8187.3,TRUE,12,FALSE,22868.44,3793.7,6963
+19-02-24,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,356,4054,14299.75,TRUE,16,FALSE,33451.84,5119.8,7090
+20-02-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,545,4742,637.12,TRUE,12,FALSE,78464.71,2616.4,7546
+21-02-24,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Pending,791,859,12062.25,TRUE,26,FALSE,136317.82,910.6,8885
+22-02-24,Montreal North,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,682,972,3186.38,TRUE,27,TRUE,160429.21,826.9,9760
+23-02-24,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,197,421,6440.39,TRUE,24,FALSE,38397.05,1809.9,11010
+24-02-24,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,154,2644,5755.85,TRUE,21,FALSE,33030.75,1963,9845
+24-02-24,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,750,721,8312.43,TRUE,8,TRUE,119821.75,519.2,6846
+25-02-24,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,1107,115,5717.67,TRUE,25,FALSE,94480.83,1255.6,7857
+26-02-24,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,176,2556,10452.49,TRUE,7,FALSE,12860.86,3237.6,7392
+27-02-24,Montreal East,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,74,2459,10350.29,TRUE,8,FALSE,14526.79,3065.9,6090
+28-02-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,54,2986,4276.38,TRUE,17,FALSE,8365.79,3640.3,6501
+29-02-24,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,436,3711,8459.9,TRUE,8,FALSE,33840.89,2798.1,6105
+29-02-24,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,917,900,1550.64,TRUE,16,FALSE,64301.79,1963.3,10612
+01-03-24,Montreal West,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,955,2843,14814.47,TRUE,26,FALSE,61850.4,4498.8,5163
+02-03-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,902,5626,10926.83,TRUE,1,FALSE,135440.14,2739.1,8005
+03-03-24,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,910,794,915.29,TRUE,4,FALSE,118478.18,2236.7,7632
+04-03-24,Montreal South,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,164,4466,13404.67,TRUE,20,FALSE,12568.1,2253.3,6406
+05-03-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,182,956,8305.79,TRUE,26,FALSE,21152.27,2922.4,11193
+05-03-24,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,578,4459,9311.47,TRUE,18,FALSE,77170.04,3832,10472
+06-03-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,116,2699,15902.31,TRUE,28,FALSE,5746.76,2058.2,8187
+07-03-24,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,965,1011,14344.13,TRUE,28,FALSE,85250.52,2004.6,6493
+08-03-24,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,244,1879,3130.62,TRUE,28,FALSE,33508.88,3709.9,5081
+09-03-24,Montreal North,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,636,5621,12769.96,TRUE,23,FALSE,37988.41,4831.5,8987
+10-03-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,587,3399,9513.88,FALSE,20,FALSE,41253.25,2276.3,8038
+10-03-24,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Canceled,778,678,10389.48,TRUE,3,TRUE,23302.03,2283,8379
+11-03-24,Montreal West,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,588,3204,3591.63,TRUE,3,FALSE,128382.9,3336.7,5988
+12-03-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,641,2565,11926.17,TRUE,5,FALSE,119918.09,1578.3,8998
+13-03-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,87,551,3500.08,TRUE,5,FALSE,18895.2,2714.7,10757
+14-03-24,Montreal North,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,858,3474,14684.32,TRUE,5,FALSE,57401.13,4317.2,8483
+15-03-24,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,465,3101,6485.87,TRUE,3,FALSE,13819.86,3582.5,7807
+16-03-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Pending,672,4187,910.61,TRUE,5,FALSE,74124.08,4090.8,10855
+16-03-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,1080,5063,2411.85,TRUE,15,FALSE,153653.09,3487.6,5363
+17-03-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,523,549,13141.57,TRUE,22,FALSE,59410.52,2032.4,8610
+18-03-24,Montreal East,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,688,3181,2573.29,TRUE,13,FALSE,88757.86,2043.4,7425
+19-03-24,Montreal West,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1074,587,12074.74,TRUE,2,FALSE,107301.61,1183,6207
+20-03-24,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,964,1774,19038.51,TRUE,24,FALSE,123388.8,3300.3,11194
+21-03-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,785,5061,8352.8,TRUE,24,FALSE,135685.07,4215.3,8718
+21-03-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,637,3892,9339.05,TRUE,18,FALSE,47800.83,2202.6,7566
+22-03-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Pending,322,949,15159.44,FALSE,18,FALSE,41475.52,1089.5,5034
+23-03-24,Montreal East,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,107,1110,2368.7,TRUE,17,FALSE,13172.01,3310.4,5930
+24-03-24,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Pending,635,4789,12184.49,FALSE,3,FALSE,59431.62,3307.6,10716
+25-03-24,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,715,1222,9909.04,TRUE,18,FALSE,58626.14,2528.5,5089
+26-03-24,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,645,2933,8633.05,FALSE,22,FALSE,94675,2336.3,10428
+26-03-24,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,826,1325,5987.56,TRUE,4,FALSE,183709.8,2126.9,6615
+27-03-24,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,1060,2993,3176.94,TRUE,5,FALSE,104777.48,3127,9943
+28-03-24,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,854,1869,12028.45,TRUE,27,FALSE,149243.71,1367.6,6099
+29-03-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,593,759,3751.43,TRUE,21,FALSE,92557.88,3164,9799
+30-03-24,Montreal South,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,435,4576,12370.53,TRUE,29,FALSE,30044.49,3299.8,6331
+31-03-24,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Pending,641,1682,8247.89,TRUE,29,FALSE,76898.45,3665,8121
+31-03-24,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,446,3553,2115.27,TRUE,25,FALSE,26148.34,2474.8,8064
+01-04-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,960,275,13023.9,TRUE,7,FALSE,47969.03,2083.5,8047
+02-04-24,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,209,3691,11546.47,TRUE,21,FALSE,41157.5,2094.1,8473
+03-04-24,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,661,634,14631.24,TRUE,24,FALSE,21059.23,1920.3,8566
+04-04-24,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Pending,376,2454,14073.65,TRUE,15,FALSE,29635.84,1741.7,10967
+05-04-24,Montreal South,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,661,980,7813.62,TRUE,20,FALSE,71040.04,1932.2,5097
+05-04-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,356,2577,2629.03,TRUE,6,FALSE,48747.67,2012.4,5831
+06-04-24,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,1108,1707,3919.89,TRUE,27,FALSE,159522.2,3654.1,9233
+07-04-24,Montreal West,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,1030,4936,7710.43,TRUE,22,TRUE,30571.75,3895.2,8061
+08-04-24,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,980,3840,12328.13,TRUE,15,TRUE,131873.19,4307.1,6545
+09-04-24,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,239,5053,1254.73,TRUE,27,FALSE,18252.22,4742.9,8803
+10-04-24,Montreal North,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,1045,5046,7018.04,TRUE,27,FALSE,33317.41,2901.6,8669
+10-04-24,Montreal North,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,142,593,7036.43,FALSE,10,FALSE,22353.09,2394.3,9792
+11-04-24,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,136,3563,16617.13,TRUE,25,FALSE,17978.08,1970.8,5913
+12-04-24,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,518,418,2279.02,TRUE,3,FALSE,29331.19,2285,8606
+13-04-24,Montreal East,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,925,2887,1101.59,TRUE,26,FALSE,40197.46,2661.8,7942
+14-04-24,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,328,2348,4883.94,TRUE,1,TRUE,60061.25,1514.7,6275
+15-04-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,401,344,12360.7,TRUE,15,FALSE,63505.04,961,7966
+15-04-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,323,1528,10345.67,TRUE,3,FALSE,11503.13,3149.8,7508
+16-04-24,Montreal East,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,772,3295,2201.39,TRUE,13,FALSE,174019.64,3295.5,10996
+17-04-24,Montreal South,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,74,3093,2751.26,TRUE,7,FALSE,6700.34,3070.9,7088
+18-04-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1027,3874,3617.73,TRUE,2,FALSE,95657.56,3151.6,9565
+19-04-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,275,2934,8045.49,TRUE,22,FALSE,25799.4,1818.5,6299
+20-04-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,927,185,4339.3,TRUE,29,FALSE,76635.31,1020.3,6498
+20-04-24,Montreal North,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,842,1918,5537.51,TRUE,26,FALSE,69612.55,2620.9,9133
+21-04-24,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,653,4117,3143.65,TRUE,29,FALSE,131445.45,3257.6,8747
+22-04-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,1002,1450,7242.71,TRUE,10,FALSE,27325.3,2559.5,8442
+23-04-24,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,481,3349,12369.43,TRUE,21,FALSE,65125.32,2820.1,6050
+24-04-24,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,841,1187,3487.65,TRUE,12,FALSE,144577.06,1688.2,6846
+25-04-24,Montreal South,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,130,1443,9581.97,FALSE,15,FALSE,6872.53,2112.1,9072
+26-04-24,Montreal South,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,875,2514,15191.05,TRUE,26,FALSE,156597.83,2240.8,8555
+26-04-24,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,689,1600,8509.28,TRUE,19,FALSE,114195.28,2395.2,7006
+27-04-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,614,2140,10087.05,TRUE,16,FALSE,85254.88,2718.9,7061
+28-04-24,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,562,2297,17295.42,TRUE,26,FALSE,44829.75,2862.1,8681
+29-04-24,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,320,2893,14300.53,TRUE,20,FALSE,41144.41,3543.3,8524
+30-04-24,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,620,2282,11525.41,TRUE,16,FALSE,141127.41,2695.4,6107
+01-05-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,427,2454,5372,TRUE,17,FALSE,34562.66,2270.1,10652
+01-05-24,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,681,1642,7889.12,FALSE,12,FALSE,40445,2662.7,4827
+02-05-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,660,3686,4998.68,TRUE,28,FALSE,75762.81,2650.2,8180
+03-05-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,800,600,13166.8,TRUE,29,FALSE,97708.11,2647,7855
+04-05-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,615,5310,1609.25,FALSE,5,TRUE,13366.01,2973.9,8374
+05-05-24,Montreal South,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,786,1274,12747.32,FALSE,16,FALSE,53998.32,2760.6,7213
+06-05-24,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,411,3968,5004.63,TRUE,24,FALSE,65656.39,4599.6,6203
+06-05-24,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,171,5619,9836.39,TRUE,7,FALSE,46616.88,3087.6,11514
+07-05-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,690,444,3552.73,TRUE,20,FALSE,138902.49,1168.9,7676
+08-05-24,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Pending,369,1403,5852.46,TRUE,10,TRUE,43432.23,2128.8,9104
+09-05-24,Montreal East,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,944,2378,5017.34,TRUE,7,FALSE,239380.75,3040.8,10311
+10-05-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,398,4858,12122.07,TRUE,2,FALSE,61647.27,4214.6,10160
+11-05-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,716,3324,5805.16,TRUE,25,FALSE,75712.67,2632.5,7359
+11-05-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,616,157,1539.28,FALSE,1,FALSE,68491.92,1704.2,6622
+12-05-24,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,763,3647,4681.09,TRUE,17,FALSE,142750.08,1926.8,5842
+13-05-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,600,847,16295.41,TRUE,14,FALSE,130708.79,658.3,7000
+14-05-24,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,886,461,12479.18,TRUE,26,FALSE,159068.62,1876.3,9361
+15-05-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,165,2923,3626.19,TRUE,5,FALSE,7647.6,3945.3,8174
+16-05-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,689,5636,7986.61,TRUE,10,FALSE,19214.85,5214.5,9013
+16-05-24,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,431,5258,3702.77,TRUE,13,FALSE,47083.89,3490.1,10668
+17-05-24,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,624,1406,13932.91,TRUE,5,FALSE,74415.74,2594.4,7682
+18-05-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,484,4861,2391.3,TRUE,18,FALSE,62754.57,3415.6,10477
+19-05-24,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,193,2816,13411.12,TRUE,1,FALSE,12776.87,2398.8,8811
+20-05-24,Montreal East,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,902,1661,13731.42,TRUE,3,FALSE,120576.3,2748.5,7372
+21-05-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,618,3144,8078.22,TRUE,27,FALSE,50668.5,3488.2,7835
+21-05-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,576,3382,10447.36,TRUE,6,FALSE,113875.99,4852.8,6399
+22-05-24,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,198,4349,10567.84,TRUE,11,FALSE,6822.06,3476.6,7040
+23-05-24,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,332,2679,14966.28,TRUE,16,FALSE,61605.63,4706.7,5044
+24-05-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,620,5174,16038.02,TRUE,24,FALSE,93547.38,4529,6073
+25-05-24,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,168,2835,11992.37,TRUE,29,FALSE,21819.07,3397.4,8936
+26-05-24,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Pending,189,2456,17897.42,TRUE,13,FALSE,17750.27,1615.3,7462
+26-05-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,919,211,11690.54,TRUE,24,FALSE,186526.56,1453.3,7157
+27-05-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,873,3042,9430.73,TRUE,8,FALSE,90454.17,2258.1,9140
+28-05-24,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,167,1404,1681.8,FALSE,16,FALSE,27717.13,1388.7,7737
+29-05-24,Montreal West,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,852,1239,5703.39,FALSE,22,FALSE,26412.88,3792.4,7710
+30-05-24,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Canceled,500,4438,13241.22,FALSE,17,FALSE,75712.34,4224,12394
+31-05-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Canceled,460,2736,6138.63,TRUE,26,FALSE,45876.25,1673.3,5826
+31-05-24,Montreal West,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,890,1244,12718.95,TRUE,18,FALSE,193298.96,3014.6,10238
+01-06-24,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Pending,595,4386,11169.48,TRUE,5,TRUE,74942.31,4964.7,7536
+02-06-24,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Pending,304,4374,9401.52,FALSE,18,FALSE,16199.56,4699.7,7667
+03-06-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,70,3992,6693.27,TRUE,17,FALSE,14717.96,2648.2,9902
+04-06-24,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,440,719,7178.08,TRUE,6,FALSE,33945.09,3513.1,12182
+05-06-24,Montreal West,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,721,5196,9470.58,TRUE,28,FALSE,69940.95,3332.3,7868
+05-06-24,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,78,702,3935.43,TRUE,10,FALSE,12782.99,2147.9,5332
+06-06-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,511,2396,1561.68,TRUE,28,FALSE,13128.52,3475.9,12008
+07-06-24,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,230,4286,9929.67,TRUE,26,FALSE,6679.75,4139.4,6479
+08-06-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,446,4270,14383.27,TRUE,29,FALSE,7449.49,4446.8,9993
+09-06-24,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,377,4520,7740.43,TRUE,29,FALSE,50918.89,2531.7,9650
+10-06-24,Montreal South,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,145,973,2676.06,TRUE,17,FALSE,6820.83,2166.1,8183
+11-06-24,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,704,2823,7139.54,TRUE,7,FALSE,66419.95,3559.3,8015
+11-06-24,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,910,2794,4463.64,TRUE,24,FALSE,62623.96,2756.4,12427
+12-06-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,790,2047,1345.77,TRUE,1,FALSE,148237.94,3170.8,7906
+13-06-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,577,4547,8158.07,FALSE,12,FALSE,126683.59,2145.4,7708
+14-06-24,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,900,227,6359.19,TRUE,24,FALSE,64136.99,803.6,9955
+15-06-24,Montreal East,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,744,1496,12450.84,TRUE,10,FALSE,42758.01,3285.8,7208
+16-06-24,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,624,4782,11253.5,TRUE,21,FALSE,82679.56,4918.9,8624
+16-06-24,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,985,3314,5658.15,TRUE,29,FALSE,154206.61,3510.3,9082
+17-06-24,Montreal East,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1052,5191,4946.21,TRUE,19,FALSE,159694.73,3257.9,10630
+18-06-24,Montreal South,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,353,2427,2422.58,TRUE,11,FALSE,34518.13,1851.7,7442
+19-06-24,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Pending,1005,1146,12617.4,TRUE,25,FALSE,131563.22,692.2,9032
+20-06-24,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,205,203,13109,TRUE,23,FALSE,28201.46,1810,6861
+21-06-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Canceled,345,3025,14268.33,TRUE,15,TRUE,56539.64,3912.4,9561
+21-06-24,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,207,5548,10257.73,TRUE,25,FALSE,8121.68,2815.7,7023
+22-06-24,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,784,907,662.18,TRUE,24,TRUE,112250.69,670.1,8429
+23-06-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,458,303,2187.39,TRUE,21,FALSE,107930.56,2212.4,7850
+24-06-24,Montreal North,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,466,3557,8659.03,TRUE,11,FALSE,36357.02,4267.7,12612
+25-06-24,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,340,3637,1660.41,TRUE,19,FALSE,45780.58,2940.8,10650
+26-06-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,230,2530,11738.45,TRUE,1,FALSE,48441.55,2329.3,9136
+26-06-24,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,106,1505,17851.65,FALSE,8,FALSE,21144.14,1370.3,7735
+27-06-24,Montreal South,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,523,641,14183.43,TRUE,1,FALSE,114686.2,1425.3,9689
+28-06-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,642,2344,651.65,TRUE,6,FALSE,71204.44,3887.3,11646
+29-06-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Canceled,466,3164,4985.24,FALSE,25,FALSE,103034.5,2498.3,9421
+30-06-24,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1106,576,5376.51,TRUE,28,FALSE,123574.58,1552.8,6812
+01-07-24,Montreal West,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,451,2857,13023.56,TRUE,23,FALSE,87930.2,1803.7,11585
+01-07-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,864,844,9909.87,TRUE,23,TRUE,102951,781.7,6726
+02-07-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Pending,679,657,9289.25,TRUE,19,FALSE,20468.57,461,10681
+03-07-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,570,244,12919.98,TRUE,8,FALSE,61882.76,807.5,5534
+04-07-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,434,1088,13339.38,TRUE,26,FALSE,9540.12,2989.5,7570
+05-07-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,699,4481,3163.83,TRUE,18,FALSE,73647.51,3548.4,8643
+06-07-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,120,2685,12981.02,TRUE,28,FALSE,18379.84,2152.4,9092
+06-07-24,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,94,1693,8574.81,TRUE,4,FALSE,16894.19,1940.3,6069
+07-07-24,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,748,1801,2221.49,FALSE,1,FALSE,119192.21,2423.9,6486
+08-07-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,698,2926,867.74,FALSE,27,FALSE,138241.55,3727.1,5635
+09-07-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,932,5218,4728.16,TRUE,29,FALSE,64577.1,3081.7,8663
+10-07-24,Montreal South,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,508,1380,8435.35,TRUE,3,FALSE,16611.3,1771.6,11271
+11-07-24,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,814,2277,10630.01,TRUE,19,FALSE,207814.61,4380.8,10170
+11-07-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Canceled,531,4614,11589.54,TRUE,23,FALSE,128765.89,4458.6,9965
+12-07-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,293,2758,1800.33,TRUE,22,FALSE,8346.83,4147.4,7372
+13-07-24,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,1065,3233,9197.45,FALSE,7,FALSE,177284.69,2776,7621
+14-07-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,626,1668,3784.85,TRUE,15,FALSE,121404.07,1688.4,8920
+15-07-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,126,2257,16001.47,TRUE,17,FALSE,14222.12,1648.5,9101
+16-07-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,449,843,10051.78,TRUE,9,FALSE,32593.92,2219.6,8092
+16-07-24,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,68,3708,14435.52,TRUE,17,FALSE,4533.74,3252.8,8642
+17-07-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,363,2681,5649.24,TRUE,25,FALSE,24684.09,4448.9,6954
+18-07-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,610,5246,3746.41,TRUE,2,FALSE,44490.91,4971.3,7345
+19-07-24,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Canceled,524,5037,12864.98,TRUE,19,FALSE,102533.13,5905.6,8102
+20-07-24,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,211,5021,2200.57,TRUE,21,FALSE,11857.95,2664.3,9568
+21-07-24,Montreal West,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,246,389,10807.07,TRUE,27,FALSE,27507.47,2712.8,9982
+22-07-24,Montreal East,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Pending,401,4050,12925.98,TRUE,16,FALSE,74053.4,4505.6,10457
+22-07-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Canceled,557,4772,13227.55,TRUE,14,FALSE,100599.81,3849.7,6107
+23-07-24,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,327,3472,12777.37,TRUE,11,FALSE,77358.02,3435.9,6497
+24-07-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,334,3259,14761.31,TRUE,6,FALSE,36353.52,4155.7,9983
+25-07-24,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,923,4793,5937.92,FALSE,4,FALSE,177789.75,3407.6,6926
+26-07-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Pending,461,2661,8817.6,TRUE,2,FALSE,83906.2,3322.5,6740
+27-07-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,276,4050,1149.77,TRUE,10,FALSE,9754.55,3508.3,8073
+27-07-24,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,625,2658,650.8,TRUE,3,FALSE,98520.91,3037.8,12046
+28-07-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,316,2570,11129.33,TRUE,20,FALSE,13048.98,1518.2,7197
+29-07-24,Montreal West,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,841,920,4547.42,TRUE,19,FALSE,82864.99,2032.7,10873
+30-07-24,Montreal West,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,247,2097,7498.91,TRUE,24,FALSE,52399.81,3487.4,6671
+31-07-24,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,562,3029,9852.67,TRUE,16,FALSE,47565.69,3565.1,6336
+01-08-24,Montreal South,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,293,2242,14286.15,TRUE,27,FALSE,38076.92,3776.6,6939
+01-08-24,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,537,4767,7441.6,FALSE,8,FALSE,50612.02,2855.5,4883
+02-08-24,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Pending,455,229,4421.35,TRUE,4,FALSE,41008.06,1135.4,9590
+03-08-24,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,360,1540,16783.74,TRUE,29,FALSE,11546.03,3322.4,11608
+04-08-24,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,865,4719,6994.28,TRUE,18,FALSE,88107.83,3267.5,8536
+05-08-24,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Pending,887,2382,8506.53,TRUE,19,FALSE,64079.65,3233.7,11299
+06-08-24,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,745,3692,3741.17,FALSE,27,FALSE,33547.21,4393.7,9752
+06-08-24,Montreal East,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,368,3721,18219.31,TRUE,25,FALSE,71442.07,2474.8,8747
+07-08-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,540,319,2441.22,TRUE,15,TRUE,59140.73,714.4,6552
+08-08-24,Montreal West,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,846,790,18868.18,TRUE,27,FALSE,106290.77,3369.5,8966
+09-08-24,Montreal West,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,405,5139,8691.26,TRUE,24,FALSE,50512.11,4345.8,6732
+10-08-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,167,3363,4708.57,TRUE,27,FALSE,13462.17,4079.1,5463
+11-08-24,Montreal South,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,735,2174,11520.03,FALSE,6,TRUE,94607.64,2062.2,9334
+11-08-24,Montreal North,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,929,828,4474.76,TRUE,26,FALSE,102756.22,2934.2,11373
+12-08-24,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,800,4149,6374.26,TRUE,5,FALSE,102051.52,5411.5,8921
+13-08-24,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Canceled,617,4067,13317.05,TRUE,17,FALSE,87361.88,3966.1,6909
+14-08-24,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,73,2554,10429.51,TRUE,6,FALSE,9645.52,3047.3,8324
+15-08-24,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,801,3807,2104.87,TRUE,10,FALSE,113217.12,2302.8,11757
+16-08-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,331,917,1179.03,TRUE,19,FALSE,72871.58,2838.5,6596
+16-08-24,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,949,4115,7651.98,TRUE,29,FALSE,163697.88,4474.3,7394
+17-08-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,673,3892,2483.69,TRUE,10,FALSE,47259.25,3503.5,8110
+18-08-24,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Canceled,868,3020,15785.62,TRUE,29,FALSE,66707.66,3695.6,7573
+19-08-24,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,204,2913,2591.79,TRUE,10,FALSE,20853.85,3873.8,7759
+20-08-24,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,1091,3682,2870.02,TRUE,16,FALSE,138689.52,3331.7,8850
+21-08-24,Montreal West,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Pending,741,2441,8763.48,TRUE,10,FALSE,45871.1,2470,6305
+21-08-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,646,1918,17112.69,TRUE,27,FALSE,72039.28,1740.9,9262
+22-08-24,Montreal North,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Canceled,263,1331,10197.48,TRUE,22,FALSE,38633.17,3184,7019
+23-08-24,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,72,3679,2582.38,TRUE,29,TRUE,14137.25,2190.7,11126
+24-08-24,Montreal North,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,268,643,895.41,TRUE,9,FALSE,53425.83,1338.5,7806
+25-08-24,Montreal East,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,565,1808,11875.31,TRUE,29,FALSE,91192.68,2745.6,5954
+26-08-24,Montreal East,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,338,3481,12333.08,TRUE,4,FALSE,62679.95,2892.5,9245
+26-08-24,Montreal West,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,223,2945,16925.98,TRUE,27,FALSE,44928.89,2881.4,9186
+27-08-24,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,988,2505,7617.12,TRUE,5,FALSE,95489.09,2385.7,9279
+28-08-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,393,2292,15932.37,TRUE,22,FALSE,34493.99,3341.4,5448
+29-08-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,423,3319,18587.49,TRUE,20,FALSE,74161.54,3630.2,9995
+30-08-24,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,654,3155,4502.89,TRUE,5,FALSE,93671.11,1734,6566
+31-08-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,161,693,4879.26,TRUE,5,FALSE,24625.1,1569.2,8238
+31-08-24,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,894,2639,13407.57,TRUE,6,FALSE,183788.46,2611.8,8681
+01-09-24,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Canceled,992,1848,2038.91,TRUE,2,FALSE,103149.29,3714.1,10671
+02-09-24,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,645,3824,5504.11,TRUE,12,FALSE,144245.36,4327.1,7035
+03-09-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,365,2945,12914.91,TRUE,9,FALSE,28389.45,2378.2,11774
+04-09-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Canceled,807,1300,3783.52,TRUE,2,TRUE,113717.8,2728.8,5892
+05-09-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,784,3415,1344.7,TRUE,19,TRUE,122357.45,2977.2,5924
+06-09-24,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,266,1048,10033.02,TRUE,4,FALSE,17543.49,2566.3,10445
+06-09-24,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,709,5416,14528.35,FALSE,29,FALSE,78818.15,3958.3,11215
+07-09-24,Montreal South,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,442,1460,15402.7,TRUE,25,FALSE,83601.79,2960.3,9510
+08-09-24,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,323,2702,14563.14,FALSE,26,FALSE,63454.71,4835,12390
+09-09-24,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Pending,265,4487,7623.18,TRUE,27,TRUE,30992.6,2485.3,7068
+10-09-24,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,831,803,4751.76,TRUE,13,FALSE,29791.18,935.1,7212
+11-09-24,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,725,792,7266.61,TRUE,25,FALSE,116182.7,1659.5,5860
+11-09-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Canceled,819,2256,885.89,TRUE,4,FALSE,97921.47,1985.1,9253
+12-09-24,Montreal West,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,370,545,9801,FALSE,9,FALSE,10555.62,396.9,12428
+13-09-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,744,109,2486.54,TRUE,7,FALSE,56814.99,687.2,11250
+14-09-24,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,450,1153,7455.54,TRUE,11,FALSE,54912.64,2889.2,10833
+15-09-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,352,3284,543.58,TRUE,21,FALSE,9386.03,5467,6654
+16-09-24,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,52,3820,13485.78,TRUE,21,FALSE,1949.25,4347,8730
+16-09-24,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,417,3249,8629.08,TRUE,23,FALSE,23247.59,2209.4,10057
+17-09-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,942,1155,4846.86,TRUE,18,FALSE,68610.13,1112.9,11296
+18-09-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Canceled,802,1143,16106.87,TRUE,16,FALSE,178568.42,2324,7381
+19-09-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,148,2920,14447.99,TRUE,25,FALSE,12246.61,3511.8,6167
+20-09-24,Montreal North,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,161,3026,6215.63,TRUE,22,FALSE,18831.68,4806.5,7787
+21-09-24,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,176,4236,7738.84,TRUE,16,FALSE,16213.89,2655.9,10628
+21-09-24,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Canceled,1097,443,13946.44,TRUE,19,FALSE,92575.81,425.1,5606
+22-09-24,Montreal South,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,253,230,10083.14,TRUE,28,FALSE,30813.52,1555.8,11135
+23-09-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,510,3518,6880.02,TRUE,9,FALSE,51261.94,2986.5,6308
+24-09-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,320,1762,12911.15,TRUE,7,FALSE,58512.24,2438.4,10452
+25-09-24,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,61,2535,1139.66,TRUE,2,FALSE,9107.82,2276.6,8439
+26-09-24,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,155,1088,5954.68,TRUE,19,FALSE,38503.52,881.3,7106
+26-09-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,854,243,2616.13,TRUE,4,FALSE,105231.27,1376.3,10156
+27-09-24,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,824,2759,16280.7,TRUE,22,FALSE,88817.02,1854.6,9804
+28-09-24,Montreal South,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,314,941,15935.32,TRUE,14,FALSE,26479.64,569.6,6683
+29-09-24,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,251,116,14975.97,TRUE,17,FALSE,5537.52,1517.7,7058
+30-09-24,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,146,2967,7220.66,TRUE,10,FALSE,17356.83,3510.6,10146
+01-10-24,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,178,5569,1126.34,FALSE,11,FALSE,35110.42,3103.3,9064
+01-10-24,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,969,399,5251.71,TRUE,22,FALSE,112595.06,1468.4,10167
+02-10-24,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,190,2573,3198.83,TRUE,16,FALSE,26065.78,1819.9,8467
+03-10-24,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Canceled,761,1156,6736.54,TRUE,26,FALSE,162079.12,2138.9,6460
+04-10-24,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,294,2018,13357.72,TRUE,14,FALSE,10844.52,3316.9,5645
+05-10-24,Montreal East,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,194,3738,3231.56,TRUE,18,FALSE,30887.09,4195.9,9891
+06-10-24,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,526,4236,7195.68,FALSE,21,FALSE,69271.71,3904.4,6622
+06-10-24,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Canceled,312,3400,12541.69,FALSE,26,FALSE,74226.03,2161.7,9023
+07-10-24,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,403,530,10092.16,TRUE,2,FALSE,83643.58,2668.4,7407
+08-10-24,Montreal South,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,265,4188,14998.74,FALSE,4,FALSE,29220.5,4043.8,9766
+09-10-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,865,3989,8453.45,TRUE,26,FALSE,40455.79,3060.1,6982
+10-10-24,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,437,730,8454.36,TRUE,25,FALSE,47562.35,2570.6,5469
+11-10-24,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,215,3952,14351.75,TRUE,19,FALSE,21201.75,4377.8,10540
+11-10-24,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,391,4927,4855.74,TRUE,10,TRUE,29581.39,3781.4,8558
+12-10-24,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,218,2791,4510.39,TRUE,7,FALSE,30474.62,1969.2,6938
+13-10-24,Montreal West,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,553,1178,1773.66,TRUE,28,FALSE,65584.77,853.4,6778
+14-10-24,Montreal East,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,584,158,9270.74,TRUE,4,FALSE,66817.42,411.6,6013
+15-10-24,Montreal East,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,179,695,10664.15,TRUE,11,FALSE,25912.29,1408.3,8534
+16-10-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,661,1399,10799.69,TRUE,8,FALSE,31184.68,1202.6,10035
+17-10-24,Montreal South,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,183,1152,460.66,FALSE,25,FALSE,21070.98,689.2,5627
+17-10-24,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,632,276,14382.87,TRUE,14,FALSE,103023.36,1146.5,6991
+18-10-24,Montreal East,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,583,2253,16174.94,TRUE,12,FALSE,142205.09,2951.8,6513
+19-10-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,756,3004,5280.59,TRUE,26,FALSE,134013.66,4016.5,9138
+20-10-24,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,765,3760,2480.24,TRUE,26,FALSE,147097.56,3159.8,8497
+21-10-24,Montreal West,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,595,2300,7896.85,TRUE,11,FALSE,21731.47,3128.1,4736
+22-10-24,Montreal South,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Pending,811,3870,9982.23,TRUE,20,FALSE,83712.24,2280.4,7453
+22-10-24,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,384,1349,12651.76,TRUE,1,FALSE,60698.42,2296.5,10763
+23-10-24,Montreal North,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,906,2000,15533.73,TRUE,28,FALSE,152023.29,2973,10677
+24-10-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,364,3867,1434.29,TRUE,29,FALSE,29019.3,3485.9,9009
+25-10-24,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,770,1548,11111.15,TRUE,10,FALSE,54909.93,1335.5,6370
+26-10-24,Montreal West,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,758,1029,1462.26,TRUE,20,FALSE,18551.84,1615,6371
+27-10-24,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,594,1357,7596.18,TRUE,3,FALSE,120609.74,1848.6,7423
+27-10-24,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,1030,3083,1126.23,FALSE,29,TRUE,189690.88,3369.5,6576
+28-10-24,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,978,4247,12504.18,TRUE,24,FALSE,124567.89,3180.8,5705
+29-10-24,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,526,1221,11913.99,TRUE,11,FALSE,67571.54,3785.1,8335
+30-10-24,Montreal North,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,748,4827,9216.94,TRUE,26,FALSE,40907.68,2155.3,8614
+31-10-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,91,213,1927.29,FALSE,6,FALSE,11261.23,2435.5,8724
+01-11-24,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,418,4255,8583.35,TRUE,29,FALSE,16637.89,3555.4,8105
+01-11-24,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Canceled,402,2482,5619.99,TRUE,20,FALSE,18945.36,2783.7,8007
+02-11-24,Montreal South,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,58,2305,3010.11,TRUE,16,FALSE,5353.52,2451.7,7042
+03-11-24,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,188,3241,6486.47,FALSE,13,FALSE,26957,2492.6,10139
+04-11-24,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,547,2996,14332.75,TRUE,22,FALSE,11214.67,1980,5168
+05-11-24,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,391,1830,4299.89,TRUE,22,FALSE,67709.18,2596.1,6677
+06-11-24,Montreal South,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Pending,317,3185,13327.1,TRUE,4,TRUE,13657.89,3152,8613
+06-11-24,Montreal South,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,166,2292,2949.77,TRUE,16,FALSE,29562.6,2551.7,8604
+07-11-24,Montreal North,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Pending,559,3829,12013.73,TRUE,10,FALSE,16634.26,4020,5866
+08-11-24,Montreal East,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,487,5059,14118.63,TRUE,6,FALSE,80662.16,4048.3,8410
+09-11-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1142,4418,3476.05,TRUE,23,FALSE,151810.16,5452.3,10659
+10-11-24,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,883,5472,10367.31,TRUE,1,FALSE,156384.26,2666.6,9437
+11-11-24,Montreal South,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,1010,743,8455.67,TRUE,19,FALSE,21178.06,960.3,7045
+11-11-24,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1076,938,11839.79,TRUE,16,FALSE,215781.35,2854.3,11703
+12-11-24,Montreal North,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,438,4105,13499.98,TRUE,4,FALSE,94910.06,2265.1,7881
+13-11-24,Montreal North,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,1126,208,9524.68,TRUE,16,FALSE,187513.16,2147.4,10687
+14-11-24,Montreal North,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Pending,646,4119,939.4,TRUE,9,FALSE,111838.4,4949.9,10090
+15-11-24,Montreal West,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,681,3592,6175.85,TRUE,4,FALSE,39829.1,2603.7,6878
+16-11-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,960,1615,11484.01,TRUE,18,TRUE,136663.28,3613.5,6782
+16-11-24,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Pending,240,5051,11484.99,TRUE,9,FALSE,8470.09,5359.1,8667
+17-11-24,Montreal East,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,949,3228,3841.78,TRUE,28,TRUE,79910.17,2462.7,8054
+18-11-24,Montreal West,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,1032,317,13338.49,TRUE,17,FALSE,121849.17,2497.9,7671
+19-11-24,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Canceled,567,3930,16723.51,TRUE,27,FALSE,57561.86,3473,10934
+20-11-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,623,2173,10214.92,TRUE,23,FALSE,106176.26,3235.1,8706
+21-11-24,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,87,2866,3690.72,TRUE,25,FALSE,14200.31,3804.3,9017
+21-11-24,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,608,3386,5409.25,TRUE,29,FALSE,68056.76,3797.1,5981
+22-11-24,Montreal North,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,844,2306,7888.01,TRUE,10,FALSE,78710.8,2315.5,9687
+23-11-24,Montreal North,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,109,2233,4632.53,TRUE,15,FALSE,12343.84,2095.6,5085
+24-11-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Canceled,82,2349,10166.18,FALSE,10,FALSE,4995.61,2445.5,7916
+25-11-24,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,1045,1628,1122.24,TRUE,15,TRUE,87198.61,2654.9,5643
+26-11-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,878,2206,10882.68,TRUE,28,FALSE,107468.76,2830,5310
+26-11-24,Montreal South,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Pending,233,3457,3523.45,TRUE,2,FALSE,31828.57,2634,6128
+27-11-24,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,939,2160,17771.45,TRUE,26,FALSE,91578.31,2610.3,6100
+28-11-24,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,250,2129,4661.88,TRUE,22,FALSE,17381.58,1299,6575
+29-11-24,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,939,166,13052.16,TRUE,9,FALSE,79418.68,2601.2,8161
+30-11-24,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Pending,1072,3797,14047.76,FALSE,23,TRUE,75859.85,2399.8,7829
+01-12-24,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,228,308,15507.96,FALSE,29,FALSE,19990.34,2185.4,7437
+02-12-24,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,846,3145,5758.91,TRUE,2,FALSE,167042.42,5088.8,11365
+02-12-24,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,840,4556,5520.51,TRUE,26,FALSE,221740,2694.2,8396
+03-12-24,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Canceled,286,276,11757.45,TRUE,1,FALSE,43653.87,1477.8,5716
+04-12-24,Montreal East,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,670,1806,9372.15,TRUE,2,FALSE,73322.53,2442.6,9744
+05-12-24,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,398,1953,931.74,TRUE,11,FALSE,27912.94,3435,5433
+06-12-24,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,368,3627,4859.45,TRUE,2,FALSE,49527.15,2380.7,7551
+07-12-24,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Pending,75,785,8187.25,TRUE,23,FALSE,3708.54,1962.4,6453
+07-12-24,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Canceled,187,3134,2440.55,TRUE,26,FALSE,8710.62,2268.5,5549
+08-12-24,Montreal South,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,92,661,8145.79,TRUE,20,TRUE,16255.02,1916,8240
+09-12-24,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,77,3971,12160.09,TRUE,17,TRUE,1759.37,2100.1,7333
+10-12-24,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,724,937,6703.22,TRUE,16,FALSE,62179,978.6,5596
+11-12-24,Montreal South,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,479,436,14986.75,TRUE,17,FALSE,81606.92,2437,8105
+12-12-24,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,675,4761,9604.96,TRUE,7,FALSE,159048.58,2936.2,10106
+12-12-24,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Pending,533,345,1525,TRUE,27,FALSE,44205,344.9,7801
+13-12-24,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Pending,1182,226,8644.61,TRUE,2,FALSE,29918.25,360.7,8653
+14-12-24,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,449,344,6018.08,TRUE,9,FALSE,109755.25,1651.9,5659
+15-12-24,Montreal East,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Canceled,290,3253,4596.94,TRUE,24,FALSE,22657.36,3298.7,6069
+16-12-24,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,1111,2874,13014.88,TRUE,5,FALSE,108394.24,3090.5,8287
+17-12-24,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Pending,230,3466,10523.49,FALSE,21,FALSE,32390.11,2479.3,6750
+17-12-24,Montreal West,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,904,1287,10695.45,TRUE,27,FALSE,123507.64,3193.1,9373
+18-12-24,Montreal North,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,299,4234,3146.34,TRUE,15,FALSE,16537.96,3753.2,5866
+19-12-24,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Canceled,482,2501,911.77,TRUE,4,FALSE,32846.94,4087.2,11538
+20-12-24,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,142,4666,1404.86,TRUE,20,TRUE,6967.27,4158.8,7380
+21-12-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,241,2937,2831.6,TRUE,4,FALSE,13067.86,3065.4,8261
+22-12-24,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,134,3372,16201.92,TRUE,23,FALSE,27288.47,4316.5,6508
+22-12-24,Montreal North,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,894,3629,13514.15,TRUE,7,FALSE,125538.51,3987.2,8397
+23-12-24,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,482,3494,8284.62,TRUE,28,FALSE,84190.79,2991.5,6563
+24-12-24,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,713,1348,7684.63,TRUE,22,FALSE,124335.43,2049.7,6553
+25-12-24,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,932,2451,6107.94,TRUE,25,FALSE,203974.3,2137.1,6793
+26-12-24,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,563,2465,2100.9,TRUE,5,FALSE,51711.79,2662,5754
+27-12-24,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,126,2530,4679.62,TRUE,4,FALSE,16467.13,2225,10236
+27-12-24,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,231,1898,3971.89,TRUE,8,FALSE,32681.87,2191.2,4859
+28-12-24,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Canceled,867,2199,11278.06,TRUE,6,FALSE,148478.9,1832.5,9627
+29-12-24,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,691,1512,3955.52,TRUE,19,FALSE,34205.71,2340.2,5314
+30-12-24,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Pending,910,3307,7696.44,TRUE,1,FALSE,161561.04,3200.8,5057
+31-12-24,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,813,2450,10632.35,TRUE,28,FALSE,121742.27,3399.7,11161
+01-01-25,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Pending,875,3985,1730.7,TRUE,13,FALSE,134644.88,1858.7,5220
+01-01-25,Montreal West,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,165,357,5157.39,TRUE,12,FALSE,26353.44,597.8,9338
+02-01-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,749,704,14686.06,TRUE,25,FALSE,47909.62,1707.8,6814
+03-01-25,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,648,2705,8767.82,TRUE,25,FALSE,58089.29,2166.8,5722
+04-01-25,Montreal East,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,783,1549,11741.36,TRUE,19,FALSE,34281.14,3019.9,10284
+05-01-25,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,357,3340,1751.6,TRUE,25,FALSE,44631.99,2671.6,8369
+06-01-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,535,2135,4955.85,TRUE,22,FALSE,59346.1,2336.7,6183
+06-01-25,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Canceled,275,1729,10380.13,TRUE,27,FALSE,51433.12,2746,6497
+07-01-25,Montreal North,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,115,3906,7548.75,TRUE,12,FALSE,20468.16,3190.3,7740
+08-01-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Canceled,61,1324,1757.86,TRUE,8,TRUE,12042.54,2045.9,5600
+09-01-25,Montreal East,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,685,2892,14855.32,TRUE,1,FALSE,88506.1,2540.6,4991
+10-01-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,934,2864,719.74,TRUE,3,FALSE,24648.83,1645.6,7898
+11-01-25,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Pending,196,390,3400.03,TRUE,15,FALSE,20647.9,1200,9877
+12-01-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Pending,69,1454,15823.51,TRUE,5,FALSE,2520.72,1987.9,11990
+12-01-25,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1028,1473,10488.39,TRUE,1,FALSE,94022.6,2899,6595
+13-01-25,Montreal East,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,692,3600,1203.25,TRUE,28,TRUE,76081.6,2794.2,9183
+14-01-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1056,1920,3662.32,TRUE,19,TRUE,72205.13,2690.4,10216
+15-01-25,Montreal East,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,1122,4441,14742.57,TRUE,15,FALSE,23802.56,3643.5,10278
+16-01-25,Montreal East,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Pending,868,3007,16206.22,TRUE,26,FALSE,215677.94,2249.8,5198
+17-01-25,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,803,939,16852.42,TRUE,18,FALSE,98122.23,1176.1,8114
+17-01-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,340,1766,15995.29,TRUE,26,FALSE,69310.05,1230.1,9946
+18-01-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Canceled,99,563,2187.82,TRUE,1,FALSE,19924.99,2538.1,5971
+19-01-25,Montreal West,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,628,4421,6964.87,TRUE,17,FALSE,44635.97,4514.5,10382
+20-01-25,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,367,2178,5479.45,TRUE,7,FALSE,23195.61,1975.8,6912
+21-01-25,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,782,545,11291.21,TRUE,12,FALSE,178703.75,902.6,8833
+22-01-25,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,779,937,11257.21,TRUE,27,FALSE,201660.77,2372.4,10057
+22-01-25,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,555,3746,5595.03,TRUE,10,TRUE,81345.52,2967.5,9492
+23-01-25,Montreal East,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,611,3145,5506,TRUE,6,FALSE,175467.13,3204.3,9225
+24-01-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Canceled,936,3125,3358.67,TRUE,15,TRUE,115184.9,2541.5,5258
+25-01-25,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,1075,1312,624.47,TRUE,24,FALSE,77249.4,3439,8604
+26-01-25,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,375,4884,4461.96,TRUE,18,FALSE,26713.84,3989.1,8825
+27-01-25,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,772,2723,12380.46,TRUE,3,FALSE,119736,4060,8280
+27-01-25,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,136,4431,6809.48,FALSE,14,FALSE,9507.54,3969,7550
+28-01-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Pending,369,3160,10884.8,TRUE,21,FALSE,64097.68,3703,8398
+29-01-25,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,310,3566,3910.05,TRUE,25,FALSE,9010.87,4235.7,5185
+30-01-25,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,281,4909,16823.43,TRUE,29,FALSE,7038.63,4231.5,8801
+31-01-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,501,2499,18143.36,FALSE,25,FALSE,59761.16,3515.2,5407
+01-02-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,578,4877,8430.06,FALSE,10,FALSE,109936.89,3400.7,11392
+01-02-25,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,357,900,1896.5,TRUE,19,FALSE,66533.71,1878.2,8030
+02-02-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,372,2582,8647.48,TRUE,18,FALSE,47672.28,3645.2,8841
+03-02-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,728,4645,1564.23,TRUE,12,FALSE,158771.41,4196,9134
+04-02-25,Montreal West,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,783,3976,3573.03,TRUE,11,FALSE,88149.92,3260.2,9566
+05-02-25,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Pending,238,2348,9734.69,TRUE,6,FALSE,30027.23,3040.4,9748
+06-02-25,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,524,3022,6450.95,TRUE,7,TRUE,48012.96,1839.1,10282
+06-02-25,Montreal East,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,488,1149,15012.86,TRUE,8,FALSE,78270.74,1202.5,4710
+07-02-25,Montreal North,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Pending,915,930,15670.01,TRUE,29,FALSE,21513.67,1776.6,8102
+08-02-25,Montreal East,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Pending,330,2288,3831.44,TRUE,29,TRUE,29767.04,3709.6,6982
+09-02-25,Montreal South,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,798,4521,5280.02,FALSE,20,TRUE,111525.89,2569.9,5048
+10-02-25,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,388,691,16106.81,TRUE,5,FALSE,60199.27,962.4,7835
+11-02-25,Montreal North,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Canceled,109,916,2844.59,TRUE,2,FALSE,15078.26,2820.9,6284
+11-02-25,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,787,4349,4791.55,FALSE,14,FALSE,25923.29,3663.7,7630
+12-02-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,146,2171,13095.15,TRUE,19,FALSE,16456.51,1708.5,5647
+13-02-25,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,1054,1381,8753.3,TRUE,20,FALSE,215200.48,2082.2,8206
+14-02-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Pending,265,1986,742.24,TRUE,9,FALSE,30417.2,2088.7,8970
+15-02-25,Montreal East,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,734,1762,3651.95,TRUE,29,FALSE,121107.68,1103.3,7823
+16-02-25,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,995,419,5457.35,TRUE,10,FALSE,182810.14,828.8,9798
+16-02-25,Montreal South,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,452,1042,7221.97,TRUE,20,FALSE,101195.44,2835,9353
+17-02-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,676,4677,3231.34,TRUE,3,FALSE,43987.04,5546.1,11741
+18-02-25,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,647,4627,7535.37,TRUE,23,FALSE,97986.8,5327.7,8370
+19-02-25,Montreal South,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,858,3227,8295.14,TRUE,10,FALSE,158750.34,3467.3,6144
+20-02-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Pending,726,2547,2859.13,TRUE,10,FALSE,43149.84,4351,7155
+21-02-25,Montreal West,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,223,5464,2110.47,TRUE,21,FALSE,25244.46,2936.2,6854
+21-02-25,Montreal West,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Pending,521,1860,842.99,TRUE,12,FALSE,66673.46,2738.4,6743
+22-02-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Canceled,534,3424,1537.43,TRUE,10,TRUE,28208.5,3742.4,7255
+23-02-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,661,2960,4189.38,TRUE,22,FALSE,89896.61,4021.7,7203
+24-02-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,565,4684,4456.91,TRUE,6,FALSE,101122.51,3527,6829
+25-02-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,137,974,6283.89,TRUE,2,FALSE,15932.6,3042.7,8883
+26-02-25,Montreal West,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,869,3870,2629.24,TRUE,8,FALSE,203402.99,4347.8,7718
+27-02-25,Montreal South,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,901,3624,3593.71,TRUE,23,FALSE,121210.84,4030.6,8015
+27-02-25,Montreal South,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,106,5257,4508.39,TRUE,22,FALSE,3055.04,3690.4,9630
+28-02-25,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,135,1538,2048.14,TRUE,12,FALSE,13538.1,2961.2,6952
+01-03-25,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Fulfilled,374,3136,10570.35,TRUE,3,FALSE,62474.96,2552.4,12079
+02-03-25,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Canceled,414,1727,12474.6,TRUE,4,FALSE,47432.94,1114.7,5915
+03-03-25,Montreal South,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,68,649,13992.14,TRUE,13,TRUE,5629.7,367.3,7545
+04-03-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,917,226,7287.43,TRUE,17,FALSE,148434.25,494.8,11668
+04-03-25,Montreal North,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,704,655,8176.45,TRUE,4,FALSE,130165.21,680.5,8000
+05-03-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,389,399,2412.08,TRUE,14,FALSE,51601.34,1072.3,9987
+06-03-25,Montreal North,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,768,1972,8250.85,TRUE,25,FALSE,95802.33,1932.6,8359
+07-03-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,343,1657,9684.19,TRUE,2,FALSE,44816.49,3246.1,6393
+08-03-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,535,3404,11240.17,TRUE,27,FALSE,23256.64,3988.6,9904
+09-03-25,Montreal West,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,616,3960,6776.14,TRUE,24,FALSE,83021.09,3508.5,7390
+09-03-25,Montreal South,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Canceled,650,1908,12844.75,TRUE,2,FALSE,67977.44,1831.1,7310
+10-03-25,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,656,530,1402.22,TRUE,13,FALSE,61509.49,1430.3,5515
+11-03-25,Montreal North,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,71,1895,6789.84,TRUE,20,FALSE,9774.86,2538.7,9413
+12-03-25,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,650,2611,8020.41,TRUE,16,FALSE,114385.01,1992.6,5425
+13-03-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,468,937,3993.91,TRUE,20,FALSE,82993.94,2625.3,5713
+14-03-25,Montreal East,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,345,4272,11834.48,FALSE,24,TRUE,53521.47,3400,6911
+14-03-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,238,2771,8847.88,TRUE,23,FALSE,57037.62,3784.6,9183
+15-03-25,Montreal West,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Pending,1002,4945,4080.69,TRUE,25,FALSE,134688.89,2657.4,8755
+16-03-25,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,303,1117,10019.73,FALSE,24,FALSE,33543.12,1024.7,9082
+17-03-25,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,65,619,3202.85,TRUE,26,FALSE,6808,1531.7,7240
+18-03-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Canceled,744,1847,13277.74,TRUE,17,FALSE,38327.75,2568,7693
+19-03-25,Montreal South,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Canceled,296,2281,4071.47,TRUE,29,TRUE,48143.67,1566.7,8765
+19-03-25,Montreal West,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Pending,774,665,12902.2,TRUE,11,TRUE,134691.51,2602.5,6988
+20-03-25,Montreal East,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,104,3864,4513.71,TRUE,10,FALSE,8757.54,5392.7,8403
+21-03-25,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,95,3940,6929.08,TRUE,18,FALSE,2786.99,2661.4,6906
+22-03-25,Montreal East,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Pending,266,488,14263.07,TRUE,25,FALSE,42723.63,2368.4,10832
+23-03-25,Montreal North,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,159,3396,1538.45,TRUE,20,FALSE,29233.35,4737.7,7051
+24-03-25,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,155,5806,12722.63,TRUE,18,FALSE,21402.58,3341.8,8151
+24-03-25,Montreal South,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Canceled,800,1202,17560.34,TRUE,25,FALSE,193933.75,797.7,8794
+25-03-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,887,232,495.06,TRUE,23,FALSE,149159.93,1716.2,5989
+26-03-25,Montreal West,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Fulfilled,925,2412,2810.36,TRUE,4,FALSE,182291.66,3798.2,5421
+27-03-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,324,3472,12992.78,TRUE,19,FALSE,52848.06,3710.2,10347
+28-03-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,336,1837,14584.81,TRUE,16,FALSE,30101.75,3363.6,8496
+29-03-25,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,134,3705,8649.17,TRUE,3,FALSE,18456.54,4230.3,10561
+29-03-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,587,2692,15307.15,TRUE,2,FALSE,105036.09,2807.9,11063
+30-03-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,285,1991,5929.39,TRUE,2,FALSE,24887.38,2065.2,10982
+31-03-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,261,1705,10341.57,TRUE,9,FALSE,44844.04,1596.5,7160
+01-04-25,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Pending,746,1409,15889.51,TRUE,18,FALSE,154068.33,3325.5,5785
+02-04-25,Montreal North,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,105,4473,4232.53,TRUE,2,FALSE,19811.06,3372.5,11796
+03-04-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,332,863,11307.77,TRUE,11,FALSE,39852.56,994.9,7571
+03-04-25,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,398,1215,3867.19,TRUE,12,FALSE,77774.52,1476.9,11278
+04-04-25,Montreal West,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,641,1402,4225.53,TRUE,21,FALSE,26969.35,2875,6965
+05-04-25,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,845,3919,16572.36,FALSE,22,FALSE,87754.24,3267.1,9509
+06-04-25,Montreal South,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Canceled,988,4032,14089.03,TRUE,9,TRUE,37557.16,2900.6,6898
+07-04-25,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,712,2766,902.21,TRUE,29,FALSE,33572.71,2176.9,6814
+08-04-25,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,1061,1402,7093.26,TRUE,8,FALSE,174306.37,2856.7,6630
+09-04-25,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,187,3360,1550.75,TRUE,22,FALSE,8811.68,3200.8,6751
+09-04-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,259,2444,8983.43,TRUE,29,FALSE,12969.39,1705.6,8750
+10-04-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Pending,483,1095,3736.27,TRUE,3,FALSE,101784.87,2746.4,8865
+11-04-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,372,5095,11790.28,TRUE,29,FALSE,71802.92,4923.5,10173
+12-04-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,582,3366,14307.7,TRUE,13,FALSE,19309.16,4147.7,6702
+13-04-25,Montreal East,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Fulfilled,539,2819,3427.17,TRUE,10,FALSE,70117.32,2035,7887
+14-04-25,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,725,963,17145.23,TRUE,20,FALSE,153730.97,1172.8,11897
+14-04-25,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,535,975,1255.19,TRUE,8,FALSE,44645.28,2199.7,10088
+15-04-25,Montreal South,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Pending,957,2708,7372.99,TRUE,27,FALSE,199745.42,3265.1,8384
+16-04-25,Montreal South,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,846,4233,827.34,TRUE,27,FALSE,149910.12,3067.2,8555
+17-04-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,718,1209,5688.62,TRUE,3,FALSE,218352.45,1988.3,6631
+18-04-25,Montreal North,Consumer Electronics,Nova Distribution,Ville-Marie Hub,Pending,439,1652,17118.35,TRUE,29,FALSE,76954.36,2262.6,8273
+19-04-25,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Canceled,475,1610,9629.07,TRUE,5,FALSE,36775.34,2917.6,9301
+19-04-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,150,3309,9917.79,TRUE,22,FALSE,28658.82,3661.3,6318
+20-04-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Canceled,423,3669,15704.51,TRUE,15,FALSE,72819.48,4959,7900
+21-04-25,Montreal South,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Canceled,737,3880,9777.89,TRUE,13,FALSE,133778.51,2757.6,10011
+22-04-25,Montreal South,Smart Devices,Nova Distribution,Ville-Marie Hub,Canceled,659,203,1865.69,TRUE,10,FALSE,101891.81,862,6154
+23-04-25,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Pending,181,1087,14108.66,TRUE,9,FALSE,11747.94,1681.1,8867
+24-04-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,886,2006,4883.52,TRUE,21,FALSE,152464.07,2710.8,5909
+24-04-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Canceled,479,2957,11418.65,TRUE,9,FALSE,68529.11,2115.9,7659
+25-04-25,Montreal South,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,910,1802,5483.62,TRUE,25,FALSE,25006.27,3525.3,8603
+26-04-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,389,3683,6535.49,TRUE,17,FALSE,57374.18,4041.5,10206
+27-04-25,Montreal North,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,648,2877,7683.02,TRUE,29,FALSE,60824.68,2932.2,6758
+28-04-25,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,63,2792,1592.43,TRUE,7,FALSE,11586.39,3090.7,6505
+29-04-25,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,297,3955,11504.34,FALSE,11,FALSE,28731.65,3157.6,7460
+29-04-25,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,262,2244,13647.64,TRUE,26,TRUE,54012.79,4196.2,6878
+30-04-25,Montreal East,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Canceled,817,4881,5752.72,TRUE,27,TRUE,65881.38,5231,6695
+01-05-25,Montreal South,Consumer Electronics,Nova Distribution,Laval Distribution Center,Pending,529,4276,11122.51,TRUE,3,FALSE,30731.39,4072.2,8159
+02-05-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Canceled,696,3984,4785.07,TRUE,21,FALSE,86090.17,2415.5,7546
+03-05-25,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Canceled,802,1385,10604.22,TRUE,19,FALSE,182420.88,1352.3,6111
+04-05-25,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,550,900,16530.37,TRUE,27,FALSE,23589.35,1663.5,7507
+04-05-25,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Canceled,921,1632,9992.23,TRUE,5,FALSE,17660.79,2210,12673
+05-05-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,218,2234,13649.62,TRUE,26,FALSE,15632.49,1153.2,8349
+06-05-25,Montreal East,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Pending,731,446,14891.33,TRUE,19,FALSE,74940.14,1121.1,11152
+07-05-25,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,275,1346,3869.35,TRUE,26,FALSE,55694.82,2820.7,7087
+08-05-25,Montreal East,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Canceled,62,3188,6274.96,TRUE,29,FALSE,10497.85,3717.5,8258
+09-05-25,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Pending,882,5275,18381.23,TRUE,29,FALSE,175173.97,4315.3,12641
+09-05-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,161,3123,16043.18,TRUE,23,FALSE,13091.83,3192,8323
+10-05-25,Montreal South,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,59,3096,5555.61,TRUE,5,FALSE,9359.87,3117.9,8166
+11-05-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,653,3197,8450.27,TRUE,12,FALSE,58703.1,2848.1,10811
+12-05-25,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,606,1983,16760.12,TRUE,29,FALSE,64925.7,2450.7,5842
+13-05-25,Montreal North,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,628,3612,3101.14,TRUE,4,FALSE,60549.44,2967.3,5777
+14-05-25,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,1087,1341,2640.03,TRUE,7,FALSE,163883.92,1330.1,7582
+14-05-25,Montreal North,Home Appliances,Nova Distribution,Laval Distribution Center,Fulfilled,361,747,8468.3,TRUE,20,FALSE,66664.43,2480.7,7866
+15-05-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,452,3095,2899.59,TRUE,24,FALSE,29569.57,3768.2,12038
+16-05-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Pending,598,3070,6020.78,TRUE,29,TRUE,79539.71,4839.2,11856
+17-05-25,Montreal West,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,197,5110,17976.5,TRUE,4,FALSE,47206.57,5656.6,11021
+18-05-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,485,4940,8099.01,TRUE,7,TRUE,63212.63,4244.8,7791
+19-05-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,258,2657,3931.66,FALSE,26,FALSE,36435.08,2037.2,6406
+19-05-25,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,530,763,13073.1,TRUE,11,TRUE,105786.52,987.1,11755
+20-05-25,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,698,989,12329.99,TRUE,7,FALSE,160004.75,960.9,9434
+21-05-25,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,423,765,11418.34,TRUE,28,TRUE,28369.09,3195.9,6297
+22-05-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Canceled,689,3733,9932.18,TRUE,2,FALSE,51808.75,3090.1,4816
+23-05-25,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,1011,2736,10135.83,FALSE,16,FALSE,135742.51,1419.5,10014
+24-05-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,264,226,10236.78,TRUE,6,FALSE,12114.21,1780.4,8978
+25-05-25,Montreal East,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,748,3969,11451.7,TRUE,3,FALSE,75542.05,4276.7,10488
+25-05-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,658,4568,10410.17,TRUE,6,FALSE,56389.88,2636.6,6050
+26-05-25,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,304,1465,7709.86,TRUE,24,FALSE,53543.3,1932.6,7311
+27-05-25,Montreal East,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,563,1659,12341.4,TRUE,15,FALSE,34122.88,2339.2,8233
+28-05-25,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Pending,792,1719,849.51,TRUE,15,FALSE,159317.07,2277.3,10069
+29-05-25,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Pending,359,1659,10005.75,FALSE,26,FALSE,41368.12,1401.5,8770
+30-05-25,Montreal North,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,202,1048,5148.3,TRUE,7,FALSE,34407.17,935.9,4752
+30-05-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,168,804,6897.75,TRUE,19,FALSE,20171.84,1573.8,10315
+31-05-25,Montreal East,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Canceled,490,1725,9867.72,TRUE,4,FALSE,82333.82,2578.2,6318
+01-06-25,Montreal East,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,967,3541,6966.81,FALSE,2,FALSE,174867.17,2338.1,9219
+02-06-25,Montreal South,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,651,324,5795.62,TRUE,29,FALSE,64066.69,261.5,8836
+03-06-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,625,195,15118.5,TRUE,19,FALSE,75905.88,2056.5,6251
+04-06-25,Montreal East,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,932,4971,2719.72,TRUE,23,FALSE,52993.2,2547.6,8647
+04-06-25,Montreal North,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,518,743,9929.27,TRUE,10,TRUE,33101.02,2236.9,6925
+05-06-25,Montreal East,Consumer Electronics,Nova Distribution,Laval Distribution Center,Pending,504,3595,9518.7,TRUE,14,FALSE,74604.18,4863.9,7492
+06-06-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,255,4617,14305.03,TRUE,12,FALSE,41763.44,5068.8,9435
+07-06-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Laval Distribution Center,Fulfilled,204,3923,16308.68,TRUE,13,FALSE,15148.79,3552.6,7679
+08-06-25,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,254,1533,8070.39,TRUE,12,TRUE,34451.54,2736.1,8031
+09-06-25,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,811,4039,13924.9,TRUE,24,TRUE,70748.22,3600.3,8789
+09-06-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,751,2421,17582.92,TRUE,17,FALSE,20064.97,2823,5973
+10-06-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,176,2516,12136.73,FALSE,17,FALSE,19010.02,1826.3,6229
+11-06-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,684,1209,3162.26,TRUE,17,TRUE,122849.59,2876.1,8317
+12-06-25,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,726,4573,618.1,TRUE,9,FALSE,147594.88,4235.5,6969
+13-06-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,343,4920,2022.03,TRUE,9,FALSE,71837.43,2250.2,6395
+14-06-25,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Canceled,200,139,9711.14,TRUE,22,FALSE,36576.01,3179,8546
+14-06-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,338,5426,6499.24,TRUE,10,TRUE,42036.33,4562.9,7510
+15-06-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Canceled,1090,3775,1326.03,TRUE,16,FALSE,90902.88,2767.6,5581
+16-06-25,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,388,3115,4871.63,TRUE,23,FALSE,30180.41,3089.9,6226
+17-06-25,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Canceled,826,4445,11942.17,TRUE,24,FALSE,46390.73,3518.7,9683
+18-06-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Canceled,497,4576,11589.89,TRUE,16,FALSE,38723.82,2971,12000
+19-06-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,449,696,13736.57,FALSE,15,FALSE,44582.75,1178.1,8611
+19-06-25,Montreal West,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,216,1431,9249.51,TRUE,6,FALSE,54757.42,1247.6,12177
+20-06-25,Montreal West,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Pending,933,796,17312.13,TRUE,29,FALSE,235475.3,2245.9,7196
+21-06-25,Montreal East,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,627,2883,12582.12,TRUE,29,FALSE,133179.5,2033.5,7635
+22-06-25,Montreal West,Smart Devices,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,799,275,6349.32,TRUE,13,FALSE,145617.18,332.8,8046
+23-06-25,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,232,424,13666.69,TRUE,19,FALSE,32411.27,2089.3,11485
+24-06-25,Montreal West,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,801,2757,5840.67,TRUE,23,FALSE,164959.9,2247.5,7928
+24-06-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,845,1791,5079.6,TRUE,1,FALSE,23418.86,2588.5,8171
+25-06-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,950,2222,17156.85,TRUE,6,FALSE,15711.07,2369,11681
+26-06-25,Montreal West,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,598,1251,11025.13,TRUE,15,FALSE,61142.18,2921.5,9890
+27-06-25,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Pending,803,4482,8314.44,FALSE,24,FALSE,41947.65,3226.7,9554
+28-06-25,Montreal West,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Pending,820,638,14406.62,TRUE,28,FALSE,212820.46,607.3,8526
+29-06-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,360,677,15134.86,TRUE,13,FALSE,89760.86,3022.9,5327
+29-06-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,180,4490,11771.03,TRUE,23,FALSE,26155.01,3655.2,5631
+30-06-25,Montreal East,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Pending,748,2132,1804.73,TRUE,5,FALSE,140461.41,2402.4,8440
+01-07-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Canceled,192,2983,2260.13,TRUE,4,FALSE,20340.55,1715.8,5715
+02-07-25,Montreal North,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,213,441,4041.02,TRUE,14,FALSE,35127.99,1153.4,6000
+03-07-25,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,771,2124,9226.3,TRUE,20,FALSE,180947.41,2076.1,10087
+04-07-25,Montreal North,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,417,1195,11062.95,TRUE,1,FALSE,19182.83,1330.9,7719
+05-07-25,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,116,1229,12757.46,TRUE,8,FALSE,9993.43,1988.1,10615
+05-07-25,Montreal West,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,115,2976,3865.56,TRUE,15,FALSE,16559.98,2114.5,8954
+06-07-25,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,442,1308,9849.1,TRUE,21,FALSE,21316.75,1721.9,9586
+07-07-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,413,1985,7753.08,TRUE,27,FALSE,13326.69,1499.2,11093
+08-07-25,Montreal North,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,168,169,14387.1,TRUE,18,FALSE,39944.74,308.5,12478
+09-07-25,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,463,410,11714.64,TRUE,1,FALSE,55916.07,1115.1,6929
+10-07-25,Montreal South,Consumer Electronics,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,349,1495,2329.89,TRUE,3,FALSE,67507.04,1768.6,7452
+10-07-25,Montreal West,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,926,1768,908.77,TRUE,4,FALSE,77805.87,2864.2,6884
+11-07-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Pending,1002,2512,5081.23,TRUE,17,FALSE,22370.22,4619.6,10097
+12-07-25,Montreal North,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,84,5334,7767.38,TRUE,19,FALSE,10312.86,5249.3,7388
+13-07-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,552,4268,4221.8,TRUE,23,FALSE,39816.59,3387.3,11688
+14-07-25,Montreal East,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,139,1946,1756.09,TRUE,20,FALSE,26365.6,2715.4,8133
+15-07-25,Montreal North,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Canceled,992,3367,15906.5,TRUE,22,FALSE,205794.72,4076.4,7718
+15-07-25,Montreal West,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,600,4062,10373.78,TRUE,12,FALSE,178685.71,5122.4,6849
+16-07-25,Montreal South,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Pending,738,4512,11561.88,FALSE,7,FALSE,156240.53,2996.1,8414
+17-07-25,Montreal South,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Pending,911,270,11221.67,TRUE,1,FALSE,112425.88,1293.4,9498
+18-07-25,Montreal North,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,950,1877,7499.54,TRUE,6,FALSE,179820.62,3992.5,10124
+19-07-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,521,4832,6238.87,TRUE,20,FALSE,75060.08,5050.6,7195
+20-07-25,Montreal North,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,394,3051,2888.28,TRUE,29,FALSE,59454.71,4760.2,9102
+20-07-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Canceled,523,5368,16605.15,TRUE,11,FALSE,34788.65,4442.3,10057
+21-07-25,Montreal West,Computer Peripherals,Montelix Supply Co.,Laval Distribution Center,Fulfilled,894,3887,18087.79,FALSE,13,FALSE,89893.06,4907.8,9732
+22-07-25,Montreal West,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,483,5424,10688.38,TRUE,23,FALSE,16233.73,4694.7,6532
+23-07-25,Montreal South,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Fulfilled,703,3910,7404.38,TRUE,26,FALSE,95611.86,3904.4,5940
+24-07-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,65,2555,6504.13,FALSE,29,FALSE,11913.05,4411,6527
+25-07-25,Montreal East,Home Appliances,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,489,4599,16418.25,TRUE,9,FALSE,42279.09,3985.5,6614
+25-07-25,Montreal West,Consumer Electronics,ElectraTech Inc.,Laval Distribution Center,Fulfilled,945,1957,13321.65,TRUE,17,FALSE,37953.73,2831.9,7758
+26-07-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,650,3045,5944.11,TRUE,1,FALSE,17212.03,2005.2,6997
+27-07-25,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,412,1357,2829.19,TRUE,7,FALSE,60995.69,2032.8,9694
+28-07-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,908,1903,14491.07,TRUE,1,FALSE,58583.05,1867,8715
+29-07-25,Montreal West,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,50,1530,8596.32,FALSE,15,FALSE,1616.13,2885.1,5357
+30-07-25,Montreal West,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,575,4269,4707.96,TRUE,3,FALSE,78059.27,4646.4,10079
+30-07-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,488,3463,9248.18,TRUE,11,TRUE,35207.27,3010.7,7045
+31-07-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Pending,320,1101,6016.23,TRUE,6,FALSE,28530.91,1492.4,9019
+01-08-25,Montreal South,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Fulfilled,807,1275,9891.26,TRUE,24,FALSE,98904.98,3858.1,7962
+02-08-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,359,3992,13452.66,TRUE,11,FALSE,42139.18,4624.8,6432
+03-08-25,Montreal East,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,189,2417,3020,TRUE,16,FALSE,19213.89,2700,9762
+04-08-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,820,1455,6617.38,TRUE,15,FALSE,158266.06,1491.4,9509
+04-08-25,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Fulfilled,519,1274,12336.62,TRUE,28,FALSE,83367.05,1267.6,6640
+05-08-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,712,1062,4640.08,TRUE,23,TRUE,47589.04,1895.9,8750
+06-08-25,Montreal East,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Pending,859,2559,11333.35,TRUE,23,FALSE,42515.92,2741.9,7417
+07-08-25,Montreal South,Smart Devices,Nova Distribution,Verdun Storage Facility,Fulfilled,351,2562,9742.8,TRUE,25,FALSE,33633.56,2786.7,9952
+08-08-25,Montreal East,Smart Devices,Nova Distribution,Laval Distribution Center,Pending,554,2916,8327.36,TRUE,16,TRUE,121122.22,2973.9,5381
+09-08-25,Montreal East,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,45,2262,11376.71,TRUE,24,FALSE,12313.17,1412.8,7202
+09-08-25,Montreal East,Computer Peripherals,Nova Distribution,Laval Distribution Center,Fulfilled,827,338,2519.93,TRUE,29,TRUE,136143.12,1074.8,7284
+10-08-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,73,1382,3865.66,TRUE,19,FALSE,9784.09,3298.1,10318
+11-08-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Verdun Storage Facility,Pending,806,3794,18091.35,TRUE,1,FALSE,26365.05,3151.7,12177
+12-08-25,Montreal West,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,318,2010,6884.28,TRUE,12,FALSE,34405.83,1205.2,8804
+13-08-25,Montreal East,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,482,103,5528.06,TRUE,13,FALSE,81027.95,2195.1,7046
+14-08-25,Montreal South,Home Appliances,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,772,2981,6188.77,TRUE,23,FALSE,33742.69,2779.1,8027
+14-08-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,694,2009,9684.21,TRUE,23,FALSE,13013.57,3522.9,8752
+15-08-25,Montreal West,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,811,3357,11763.19,TRUE,19,FALSE,21823.18,3577.5,5606
+16-08-25,Montreal North,Computer Peripherals,ElectraTech Inc.,Laval Distribution Center,Fulfilled,51,3354,2186.19,TRUE,19,FALSE,9217.1,3595.4,9845
+17-08-25,Montreal East,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Pending,118,3781,13375.28,TRUE,1,FALSE,18777.08,2530.4,8959
+18-08-25,Montreal North,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,739,2652,4426.27,TRUE,10,FALSE,27833.37,3683.1,8060
+19-08-25,Montreal East,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,337,3702,11912.04,TRUE,3,TRUE,11181.91,4278.5,10687
+20-08-25,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Fulfilled,526,2240,4129.82,TRUE,20,FALSE,45032.6,2583.8,8777
+20-08-25,Montreal West,Home Appliances,ElectraTech Inc.,Laval Distribution Center,Pending,681,2035,13771.94,TRUE,21,FALSE,26181.39,3103.7,5824
+21-08-25,Montreal North,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,359,3908,8456.91,TRUE,15,FALSE,55818.67,4732.9,6446
+22-08-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,844,5672,1089.47,TRUE,12,FALSE,39938.63,3241.3,7655
+23-08-25,Montreal North,Home Appliances,Montelix Supply Co.,Ville-Marie Hub,Pending,584,1337,8120.26,TRUE,9,FALSE,64774.44,2296.9,8239
+24-08-25,Montreal East,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,923,3053,12379.4,TRUE,6,FALSE,21594.07,3003.5,8068
+25-08-25,Montreal South,Smart Devices,PixelSource Ltd.,Laval Distribution Center,Fulfilled,813,2553,15498.89,TRUE,29,FALSE,60374.24,2574.2,12353
+25-08-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,524,2760,4464.6,TRUE,7,FALSE,65569.16,2147.2,6234
+26-08-25,Montreal West,Smart Devices,Montelix Supply Co.,Ville-Marie Hub,Fulfilled,137,1095,12036.99,TRUE,28,FALSE,16714.85,1073.8,7228
+27-08-25,Montreal East,Consumer Electronics,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,321,796,4983.42,TRUE,3,FALSE,51684.84,2662.7,11509
+28-08-25,Montreal South,Home Appliances,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,500,4663,3249.52,TRUE,22,FALSE,29581.13,5478.9,5117
+29-08-25,Montreal East,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,356,5287,7462.73,TRUE,13,FALSE,34467.2,4137.6,4911
+30-08-25,Montreal North,Computer Peripherals,Nova Distribution,Ville-Marie Hub,Canceled,237,3226,4785.51,TRUE,20,FALSE,38049.08,3525.5,7850
+30-08-25,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Fulfilled,925,3514,10607.86,TRUE,3,FALSE,110471.87,2718.3,12071
+31-08-25,Montreal West,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,437,2338,6617.92,TRUE,23,FALSE,34510.77,4020.3,9882
+01-09-25,Montreal South,Smart Devices,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,712,4698,1148.38,TRUE,27,FALSE,103978.02,3927.2,7764
+02-09-25,Montreal South,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Pending,469,2178,11298.16,TRUE,9,FALSE,15207.82,3158.4,9064
+03-09-25,Montreal West,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Fulfilled,967,3150,2939.64,TRUE,17,TRUE,169941.64,3480.1,7458
+04-09-25,Montreal East,Consumer Electronics,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,225,2974,13921.77,TRUE,16,FALSE,16587.63,4660.1,10186
+04-09-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Ville-Marie Hub,Pending,773,4354,4535.65,TRUE,16,FALSE,132544.8,2164.7,6181
+05-09-25,Montreal West,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Canceled,776,532,6811.71,TRUE,5,FALSE,99055.63,1153.6,7429
+06-09-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Pending,729,1084,858.89,TRUE,15,FALSE,107853.24,1675.7,7096
+07-09-25,Montreal South,Computer Peripherals,Montelix Supply Co.,Ville-Marie Hub,Canceled,537,1316,8997.15,TRUE,18,FALSE,12355.13,2699.4,8450
+08-09-25,Montreal West,Smart Devices,Nova Distribution,Ville-Marie Hub,Fulfilled,903,3522,10523.72,TRUE,11,FALSE,165421.78,4214.6,7157
+09-09-25,Montreal South,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Pending,788,3440,10481.45,TRUE,15,FALSE,95959.43,2566.9,5512
+09-09-25,Montreal East,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,765,740,2931.88,TRUE,16,FALSE,23907.62,3253.1,9988
+10-09-25,Montreal West,Consumer Electronics,PixelSource Ltd.,Verdun Storage Facility,Fulfilled,62,4684,13161.21,TRUE,3,FALSE,1955.18,3671.7,10022
+11-09-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Pending,301,1888,8411.56,TRUE,22,FALSE,15979.92,2759.4,8298
+12-09-25,Montreal South,Computer Peripherals,PixelSource Ltd.,Laval Distribution Center,Fulfilled,784,3845,4281.6,TRUE,13,FALSE,145871.02,4776.3,8519
+13-09-25,Montreal North,Smart Devices,ElectraTech Inc.,Laval Distribution Center,Fulfilled,593,3762,519.72,TRUE,3,FALSE,85152.79,3482,9445
+14-09-25,Montreal South,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,64,1904,9398.18,TRUE,28,TRUE,14679.65,2929.1,7861
+14-09-25,Montreal South,Smart Devices,Montelix Supply Co.,Verdun Storage Facility,Fulfilled,257,3070,6579.12,TRUE,24,FALSE,27001.11,4124.4,5312
+15-09-25,Montreal North,Consumer Electronics,PixelSource Ltd.,Laval Distribution Center,Fulfilled,330,4821,6268.68,TRUE,17,FALSE,55569.13,4252.1,9410
+16-09-25,Montreal East,Home Appliances,Montelix Supply Co.,Laval Distribution Center,Canceled,510,2732,6700.51,TRUE,26,FALSE,78887.5,3148.8,4831
+17-09-25,Montreal East,Computer Peripherals,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,541,3825,9631.16,TRUE,11,FALSE,105693.22,2807.4,6808
+18-09-25,Montreal West,Home Appliances,ElectraTech Inc.,Ville-Marie Hub,Canceled,810,1718,9113.4,TRUE,26,FALSE,117518.69,2406.1,12269
+19-09-25,Montreal North,Computer Peripherals,PixelSource Ltd.,Ville-Marie Hub,Fulfilled,545,2580,1906.51,TRUE,6,FALSE,69595.95,3067.1,11045
+19-09-25,Montreal North,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Pending,229,3000,1368.5,TRUE,6,FALSE,19500.08,2486.7,8961
+20-09-25,Montreal North,Home Appliances,Nova Distribution,Ville-Marie Hub,Pending,924,761,13387.07,TRUE,20,FALSE,110586.87,2881.7,7431
+21-09-25,Montreal South,Home Appliances,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,815,5264,16020.87,TRUE,25,FALSE,147764.08,5352.3,9574
+22-09-25,Montreal North,Home Appliances,PixelSource Ltd.,Laval Distribution Center,Pending,476,4453,18210.21,TRUE,4,FALSE,48248.65,4084.5,8424
+23-09-25,Montreal East,Smart Devices,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,178,4295,13217.06,TRUE,22,FALSE,17615.19,2568.8,5616
+24-09-25,Montreal West,Computer Peripherals,ElectraTech Inc.,Ville-Marie Hub,Fulfilled,566,998,15368.98,TRUE,20,FALSE,78452.76,1345.8,8734
+24-09-25,Montreal North,Smart Devices,Montelix Supply Co.,Laval Distribution Center,Fulfilled,612,1352,2331.64,TRUE,16,FALSE,121283.05,2530.6,8830
+25-09-25,Montreal East,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,385,4680,7149.09,TRUE,18,FALSE,32464.32,5017.9,5918
+26-09-25,Montreal West,Computer Peripherals,Nova Distribution,Verdun Storage Facility,Pending,531,4640,13082.68,TRUE,29,FALSE,59681.92,3537.6,9010
+27-09-25,Montreal South,Consumer Electronics,Nova Distribution,Verdun Storage Facility,Fulfilled,805,2472,3051.2,TRUE,14,FALSE,105599.88,2025.2,8517
+28-09-25,Montreal West,Smart Devices,ElectraTech Inc.,Verdun Storage Facility,Fulfilled,747,1195,3808.88,TRUE,15,FALSE,94810.45,751.6,6498
+29-09-25,Montreal South,Computer Peripherals,Nova Distribution,Laval Distribution Center,Pending,823,257,11747.58,TRUE,2,FALSE,109248.86,1989.9,8618
+30-09-25,Montreal East,Home Appliances,Nova Distribution,Verdun Storage Facility,Fulfilled,695,3592,13410.82,TRUE,17,FALSE,101983.89,1734.1,7967

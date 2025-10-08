@@ -119,7 +119,7 @@ Covering the period **Jan 2023 – Sep 2025**
 ## 📬 Access & Contact
 
 Interested in the dataset, PBIX file, or walkthrough?  
-💌 **Connect with me on [LinkedIn](https://linkedin.com/in/samarth-gondkar)**
+💌 **Connect with me on [LinkedIn](https://www.linkedin.com/in/prathmeshgondkar/)**
 
 ---
 

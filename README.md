@@ -90,7 +90,7 @@ Covering the period **Jan 2023 – Sep 2025**
 
 ## 📊 Power BI Dashboard Preview
 
-![SmartInventory360 Dashboard](docs/screenshots/dashboard.png)
+![SmartInventory360 Dashboard](https://github.com/prathmeshgondkar/SmartInventory-360-Real-Time-Supply-Chain-Inventory-Dashboard-Power-BI-/edit/main/README.md)
 
 ---
 
